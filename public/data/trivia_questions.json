@@ -1,0 +1,160 @@
+{
+  "¿Qué tan geek eres?": {
+    "Videojuegos": [
+      {
+        "question": "¿Cuál es el nombre del fontanero protagonista en la saga de Nintendo?",
+        "options": [
+          "Luigi",
+          "Toad",
+          "Mario",
+          "Bowser"
+        ],
+        "answer": "Mario"
+      },
+      {
+        "question": "¿En qué videojuego aparece el personaje Master Chief?",
+        "options": [
+          "Halo",
+          "Gears of War",
+          "Mass Effect",
+          "Call of Duty"
+        ],
+        "answer": "Halo"
+      },
+      {
+        "question": "¿Cuál fue la primera consola de Sony?",
+        "options": [
+          "PlayStation",
+          "PS2",
+          "PSP",
+          "PS One"
+        ],
+        "answer": "PlayStation"
+      },
+      {
+        "question": "¿Qué personaje lanza caparazones en Mario Kart?",
+        "options": [
+          "Peach",
+          "Bowser",
+          "Koopa Troopa",
+          "Yoshi"
+        ],
+        "answer": "Koopa Troopa"
+      },
+      {
+        "question": "¿Cuál es el nombre del videojuego donde se usan bloques para construir?",
+        "options": [
+          "Roblox",
+          "Terraria",
+          "Minecraft",
+          "Fortnite"
+        ],
+        "answer": "Minecraft"
+      }
+    ],
+    "Películas y series": [
+      {
+        "question": "¿Quién dirigió la trilogía original de Star Wars?",
+        "options": [
+          "Steven Spielberg",
+          "George Lucas",
+          "James Cameron",
+          "Peter Jackson"
+        ],
+        "answer": "George Lucas"
+      },
+      {
+        "question": "¿En qué ciudad vive Batman?",
+        "options": [
+          "Metropolis",
+          "Gotham",
+          "Central City",
+          "Star City"
+        ],
+        "answer": "Gotham"
+      },
+      {
+        "question": "¿Cómo se llama la serie donde aparece Walter White?",
+        "options": [
+          "Breaking Bad",
+          "Better Call Saul",
+          "Ozark",
+          "Dexter"
+        ],
+        "answer": "Breaking Bad"
+      },
+      {
+        "question": "¿Qué actor interpretó a Iron Man en el MCU?",
+        "options": [
+          "Chris Evans",
+          "Robert Downey Jr.",
+          "Mark Ruffalo",
+          "Tom Holland"
+        ],
+        "answer": "Robert Downey Jr."
+      },
+      {
+        "question": "¿Cuál es la criatura que persigue a los niños en Stranger Things?",
+        "options": [
+          "Demogorgon",
+          "Mind Flayer",
+          "Vecna",
+          "Slenderman"
+        ],
+        "answer": "Demogorgon"
+      }
+    ],
+    "Anime, comics y manga": [
+      {
+        "question": "¿Cuál es el nombre completo del protagonista de Naruto?",
+        "options": [
+          "Naruto Uchiha",
+          "Naruto Uzumaki",
+          "Naruto Hatake",
+          "Naruto Hyuga"
+        ],
+        "answer": "Naruto Uzumaki"
+      },
+      {
+        "question": "¿Qué fruta comió Luffy en One Piece?",
+        "options": [
+          "Fruta Gomu Gomu",
+          "Fruta Mera Mera",
+          "Fruta Hie Hie",
+          "Fruta Tori Tori"
+        ],
+        "answer": "Fruta Gomu Gomu"
+      },
+      {
+        "question": "¿Quién es el creador de Dragon Ball?",
+        "options": [
+          "Eiichiro Oda",
+          "Masashi Kishimoto",
+          "Akira Toriyama",
+          "Yoshihiro Togashi"
+        ],
+        "answer": "Akira Toriyama"
+      },
+      {
+        "question": "¿Qué superhéroe de Marvel es conocido como el 'mercenario bocazas'?",
+        "options": [
+          "Wolverine",
+          "Spider-Man",
+          "Deadpool",
+          "Punisher"
+        ],
+        "answer": "Deadpool"
+      },
+      {
+        "question": "¿En qué manga aparece la organización Akatsuki?",
+        "options": [
+          "Bleach",
+          "Naruto",
+          "Hunter x Hunter",
+          "My Hero Academia"
+        ],
+        "answer": "Naruto"
+      }
+    ]
+  }
+}
