@@ -2,1508 +2,1508 @@
   "¿Qué tan geek eres?": {
     "Videojuegos": [
       {
-        "question": "¿Qué criatura debe atrapar un entrenador Pokémon? #1",
+        "question": "¿Qué personaje debe rescatar a la princesa Peach?",
         "options": [
-          "Pokémon",
-          "Digimon",
-          "Metamones",
-          "Slimes"
+          "Mario",
+          "Luigi",
+          "Toad",
+          "Bowser Jr."
         ],
-        "answer": "Pokémon"
+        "answer": "Mario"
       },
       {
-        "question": "¿Qué videojuego presenta a un fontanero llamado Mario? #2",
+        "question": "¿Qué videojuego popular permite construir con bloques en un mundo abierto?",
         "options": [
-          "Sonic",
-          "Super Mario Bros",
-          "Zelda",
-          "Minecraft"
-        ],
-        "answer": "Super Mario Bros"
-      },
-      {
-        "question": "¿En qué videojuego luchas contra Creepers? #3",
-        "options": [
-          "Roblox",
           "Minecraft",
-          "Call of Duty",
-          "Rust"
+          "Roblox",
+          "Terraria",
+          "Fortnite"
         ],
         "answer": "Minecraft"
       },
       {
-        "question": "¿Cómo se llama el villano principal de The Legend of Zelda? #4",
+        "question": "¿Cuál es la empresa creadora de la consola PlayStation?",
         "options": [
-          "Bowser",
-          "Ganondorf",
-          "Zelda",
-          "Skull Kid"
+          "Sony",
+          "Nintendo",
+          "Microsoft",
+          "Sega"
         ],
-        "answer": "Ganondorf"
+        "answer": "Sony"
       },
       {
-        "question": "¿Qué compañía desarrolló 'The Last of Us'? #5",
+        "question": "¿Qué consola precedió a la Nintendo Switch?",
         "options": [
-          "Ubisoft",
-          "Naughty Dog",
-          "Valve",
-          "Rockstar"
+          "Wii U",
+          "3DS",
+          "GameCube",
+          "DS"
         ],
-        "answer": "Naughty Dog"
+        "answer": "Wii U"
       },
       {
-        "question": "¿Qué criatura debe atrapar un entrenador Pokémon? #6",
+        "question": "¿Qué videojuego tiene como protagonista a un cazador de monstruos?",
         "options": [
-          "Pokémon",
-          "Digimon",
-          "Metamones",
-          "Slimes"
+          "Monster Hunter",
+          "The Witcher",
+          "Dark Souls",
+          "Bloodborne"
         ],
-        "answer": "Pokémon"
+        "answer": "Monster Hunter"
       },
       {
-        "question": "¿Qué videojuego presenta a un fontanero llamado Mario? #7",
+        "question": "¿En qué juego el personaje principal es un joven llamado Link?",
         "options": [
-          "Sonic",
-          "Super Mario Bros",
-          "Zelda",
-          "Minecraft"
+          "The Legend of Zelda",
+          "Final Fantasy",
+          "Skyrim",
+          "Chrono Trigger"
         ],
-        "answer": "Super Mario Bros"
+        "answer": "The Legend of Zelda"
       },
       {
-        "question": "¿En qué videojuego luchas contra Creepers? #8",
+        "question": "¿Cuál es el arma principal en Halo?",
         "options": [
-          "Roblox",
+          "Rifle de asalto",
+          "Espada láser",
+          "AK-47",
+          "BFG 9000"
+        ],
+        "answer": "Rifle de asalto"
+      },
+      {
+        "question": "¿Qué juego tiene lugar en una ciudad llamada Raccoon City?",
+        "options": [
+          "Resident Evil",
+          "Silent Hill",
+          "Dead Space",
+          "The Evil Within"
+        ],
+        "answer": "Resident Evil"
+      },
+      {
+        "question": "¿Cuál es el objetivo principal en Pac-Man?",
+        "options": [
+          "Comer puntos",
+          "Evitar fantasmas",
+          "Recoger frutas",
+          "Todo lo anterior"
+        ],
+        "answer": "Todo lo anterior"
+      },
+      {
+        "question": "¿Qué videojuego presenta combates entre criaturas llamadas campeones?",
+        "options": [
+          "League of Legends",
+          "Overwatch",
+          "Valorant",
+          "Dota 2"
+        ],
+        "answer": "League of Legends"
+      },
+      {
+        "question": "Qué personaje debe rescatar a la princesa Peach 11?",
+        "options": [
+          "Mario",
+          "Luigi",
+          "Toad",
+          "Bowser Jr."
+        ],
+        "answer": "Mario"
+      },
+      {
+        "question": "Qué videojuego popular permite construir con bloques en un mundo abierto 12?",
+        "options": [
           "Minecraft",
-          "Call of Duty",
-          "Rust"
+          "Roblox",
+          "Terraria",
+          "Fortnite"
         ],
         "answer": "Minecraft"
       },
       {
-        "question": "¿Cómo se llama el villano principal de The Legend of Zelda? #9",
+        "question": "Cuál es la empresa creadora de la consola PlayStation 13?",
         "options": [
-          "Bowser",
-          "Ganondorf",
-          "Zelda",
-          "Skull Kid"
+          "Sony",
+          "Nintendo",
+          "Microsoft",
+          "Sega"
         ],
-        "answer": "Ganondorf"
+        "answer": "Sony"
       },
       {
-        "question": "¿Qué compañía desarrolló 'The Last of Us'? #10",
+        "question": "Qué consola precedió a la Nintendo Switch 14?",
         "options": [
-          "Ubisoft",
-          "Naughty Dog",
-          "Valve",
-          "Rockstar"
+          "Wii U",
+          "3DS",
+          "GameCube",
+          "DS"
         ],
-        "answer": "Naughty Dog"
+        "answer": "Wii U"
       },
       {
-        "question": "¿Qué criatura debe atrapar un entrenador Pokémon? #11",
+        "question": "Qué videojuego tiene como protagonista a un cazador de monstruos 15?",
         "options": [
-          "Pokémon",
-          "Digimon",
-          "Metamones",
-          "Slimes"
+          "Monster Hunter",
+          "The Witcher",
+          "Dark Souls",
+          "Bloodborne"
         ],
-        "answer": "Pokémon"
+        "answer": "Monster Hunter"
       },
       {
-        "question": "¿Qué videojuego presenta a un fontanero llamado Mario? #12",
+        "question": "En qué juego el personaje principal es un joven llamado Link 16?",
         "options": [
-          "Sonic",
-          "Super Mario Bros",
-          "Zelda",
-          "Minecraft"
+          "The Legend of Zelda",
+          "Final Fantasy",
+          "Skyrim",
+          "Chrono Trigger"
         ],
-        "answer": "Super Mario Bros"
+        "answer": "The Legend of Zelda"
       },
       {
-        "question": "¿En qué videojuego luchas contra Creepers? #13",
+        "question": "Cuál es el arma principal en Halo 17?",
         "options": [
-          "Roblox",
+          "Rifle de asalto",
+          "Espada láser",
+          "AK-47",
+          "BFG 9000"
+        ],
+        "answer": "Rifle de asalto"
+      },
+      {
+        "question": "Qué juego tiene lugar en una ciudad llamada Raccoon City 18?",
+        "options": [
+          "Resident Evil",
+          "Silent Hill",
+          "Dead Space",
+          "The Evil Within"
+        ],
+        "answer": "Resident Evil"
+      },
+      {
+        "question": "Cuál es el objetivo principal en Pac-Man 19?",
+        "options": [
+          "Comer puntos",
+          "Evitar fantasmas",
+          "Recoger frutas",
+          "Todo lo anterior"
+        ],
+        "answer": "Todo lo anterior"
+      },
+      {
+        "question": "Qué videojuego presenta combates entre criaturas llamadas campeones 20?",
+        "options": [
+          "League of Legends",
+          "Overwatch",
+          "Valorant",
+          "Dota 2"
+        ],
+        "answer": "League of Legends"
+      },
+      {
+        "question": "Qué personaje debe rescatar a la princesa Peach 21?",
+        "options": [
+          "Mario",
+          "Luigi",
+          "Toad",
+          "Bowser Jr."
+        ],
+        "answer": "Mario"
+      },
+      {
+        "question": "Qué videojuego popular permite construir con bloques en un mundo abierto 22?",
+        "options": [
           "Minecraft",
-          "Call of Duty",
-          "Rust"
+          "Roblox",
+          "Terraria",
+          "Fortnite"
         ],
         "answer": "Minecraft"
       },
       {
-        "question": "¿Cómo se llama el villano principal de The Legend of Zelda? #14",
+        "question": "Cuál es la empresa creadora de la consola PlayStation 23?",
         "options": [
-          "Bowser",
-          "Ganondorf",
-          "Zelda",
-          "Skull Kid"
+          "Sony",
+          "Nintendo",
+          "Microsoft",
+          "Sega"
         ],
-        "answer": "Ganondorf"
+        "answer": "Sony"
       },
       {
-        "question": "¿Qué compañía desarrolló 'The Last of Us'? #15",
+        "question": "Qué consola precedió a la Nintendo Switch 24?",
         "options": [
-          "Ubisoft",
-          "Naughty Dog",
-          "Valve",
-          "Rockstar"
+          "Wii U",
+          "3DS",
+          "GameCube",
+          "DS"
         ],
-        "answer": "Naughty Dog"
+        "answer": "Wii U"
       },
       {
-        "question": "¿Qué criatura debe atrapar un entrenador Pokémon? #16",
+        "question": "Qué videojuego tiene como protagonista a un cazador de monstruos 25?",
         "options": [
-          "Pokémon",
-          "Digimon",
-          "Metamones",
-          "Slimes"
+          "Monster Hunter",
+          "The Witcher",
+          "Dark Souls",
+          "Bloodborne"
         ],
-        "answer": "Pokémon"
+        "answer": "Monster Hunter"
       },
       {
-        "question": "¿Qué videojuego presenta a un fontanero llamado Mario? #17",
+        "question": "En qué juego el personaje principal es un joven llamado Link 26?",
         "options": [
-          "Sonic",
-          "Super Mario Bros",
-          "Zelda",
-          "Minecraft"
+          "The Legend of Zelda",
+          "Final Fantasy",
+          "Skyrim",
+          "Chrono Trigger"
         ],
-        "answer": "Super Mario Bros"
+        "answer": "The Legend of Zelda"
       },
       {
-        "question": "¿En qué videojuego luchas contra Creepers? #18",
+        "question": "Cuál es el arma principal en Halo 27?",
         "options": [
-          "Roblox",
+          "Rifle de asalto",
+          "Espada láser",
+          "AK-47",
+          "BFG 9000"
+        ],
+        "answer": "Rifle de asalto"
+      },
+      {
+        "question": "Qué juego tiene lugar en una ciudad llamada Raccoon City 28?",
+        "options": [
+          "Resident Evil",
+          "Silent Hill",
+          "Dead Space",
+          "The Evil Within"
+        ],
+        "answer": "Resident Evil"
+      },
+      {
+        "question": "Cuál es el objetivo principal en Pac-Man 29?",
+        "options": [
+          "Comer puntos",
+          "Evitar fantasmas",
+          "Recoger frutas",
+          "Todo lo anterior"
+        ],
+        "answer": "Todo lo anterior"
+      },
+      {
+        "question": "Qué videojuego presenta combates entre criaturas llamadas campeones 30?",
+        "options": [
+          "League of Legends",
+          "Overwatch",
+          "Valorant",
+          "Dota 2"
+        ],
+        "answer": "League of Legends"
+      },
+      {
+        "question": "Qué personaje debe rescatar a la princesa Peach 31?",
+        "options": [
+          "Mario",
+          "Luigi",
+          "Toad",
+          "Bowser Jr."
+        ],
+        "answer": "Mario"
+      },
+      {
+        "question": "Qué videojuego popular permite construir con bloques en un mundo abierto 32?",
+        "options": [
           "Minecraft",
-          "Call of Duty",
-          "Rust"
+          "Roblox",
+          "Terraria",
+          "Fortnite"
         ],
         "answer": "Minecraft"
       },
       {
-        "question": "¿Cómo se llama el villano principal de The Legend of Zelda? #19",
+        "question": "Cuál es la empresa creadora de la consola PlayStation 33?",
         "options": [
-          "Bowser",
-          "Ganondorf",
-          "Zelda",
-          "Skull Kid"
+          "Sony",
+          "Nintendo",
+          "Microsoft",
+          "Sega"
         ],
-        "answer": "Ganondorf"
+        "answer": "Sony"
       },
       {
-        "question": "¿Qué compañía desarrolló 'The Last of Us'? #20",
+        "question": "Qué consola precedió a la Nintendo Switch 34?",
         "options": [
-          "Ubisoft",
-          "Naughty Dog",
-          "Valve",
-          "Rockstar"
+          "Wii U",
+          "3DS",
+          "GameCube",
+          "DS"
         ],
-        "answer": "Naughty Dog"
+        "answer": "Wii U"
       },
       {
-        "question": "¿Qué criatura debe atrapar un entrenador Pokémon? #21",
+        "question": "Qué videojuego tiene como protagonista a un cazador de monstruos 35?",
         "options": [
-          "Pokémon",
-          "Digimon",
-          "Metamones",
-          "Slimes"
+          "Monster Hunter",
+          "The Witcher",
+          "Dark Souls",
+          "Bloodborne"
         ],
-        "answer": "Pokémon"
+        "answer": "Monster Hunter"
       },
       {
-        "question": "¿Qué videojuego presenta a un fontanero llamado Mario? #22",
+        "question": "En qué juego el personaje principal es un joven llamado Link 36?",
         "options": [
-          "Sonic",
-          "Super Mario Bros",
-          "Zelda",
-          "Minecraft"
+          "The Legend of Zelda",
+          "Final Fantasy",
+          "Skyrim",
+          "Chrono Trigger"
         ],
-        "answer": "Super Mario Bros"
+        "answer": "The Legend of Zelda"
       },
       {
-        "question": "¿En qué videojuego luchas contra Creepers? #23",
+        "question": "Cuál es el arma principal en Halo 37?",
         "options": [
-          "Roblox",
+          "Rifle de asalto",
+          "Espada láser",
+          "AK-47",
+          "BFG 9000"
+        ],
+        "answer": "Rifle de asalto"
+      },
+      {
+        "question": "Qué juego tiene lugar en una ciudad llamada Raccoon City 38?",
+        "options": [
+          "Resident Evil",
+          "Silent Hill",
+          "Dead Space",
+          "The Evil Within"
+        ],
+        "answer": "Resident Evil"
+      },
+      {
+        "question": "Cuál es el objetivo principal en Pac-Man 39?",
+        "options": [
+          "Comer puntos",
+          "Evitar fantasmas",
+          "Recoger frutas",
+          "Todo lo anterior"
+        ],
+        "answer": "Todo lo anterior"
+      },
+      {
+        "question": "Qué videojuego presenta combates entre criaturas llamadas campeones 40?",
+        "options": [
+          "League of Legends",
+          "Overwatch",
+          "Valorant",
+          "Dota 2"
+        ],
+        "answer": "League of Legends"
+      },
+      {
+        "question": "Qué personaje debe rescatar a la princesa Peach 41?",
+        "options": [
+          "Mario",
+          "Luigi",
+          "Toad",
+          "Bowser Jr."
+        ],
+        "answer": "Mario"
+      },
+      {
+        "question": "Qué videojuego popular permite construir con bloques en un mundo abierto 42?",
+        "options": [
           "Minecraft",
-          "Call of Duty",
-          "Rust"
+          "Roblox",
+          "Terraria",
+          "Fortnite"
         ],
         "answer": "Minecraft"
       },
       {
-        "question": "¿Cómo se llama el villano principal de The Legend of Zelda? #24",
+        "question": "Cuál es la empresa creadora de la consola PlayStation 43?",
         "options": [
-          "Bowser",
-          "Ganondorf",
-          "Zelda",
-          "Skull Kid"
+          "Sony",
+          "Nintendo",
+          "Microsoft",
+          "Sega"
         ],
-        "answer": "Ganondorf"
+        "answer": "Sony"
       },
       {
-        "question": "¿Qué compañía desarrolló 'The Last of Us'? #25",
+        "question": "Qué consola precedió a la Nintendo Switch 44?",
         "options": [
-          "Ubisoft",
-          "Naughty Dog",
-          "Valve",
-          "Rockstar"
+          "Wii U",
+          "3DS",
+          "GameCube",
+          "DS"
         ],
-        "answer": "Naughty Dog"
+        "answer": "Wii U"
       },
       {
-        "question": "¿Qué criatura debe atrapar un entrenador Pokémon? #26",
+        "question": "Qué videojuego tiene como protagonista a un cazador de monstruos 45?",
         "options": [
-          "Pokémon",
-          "Digimon",
-          "Metamones",
-          "Slimes"
+          "Monster Hunter",
+          "The Witcher",
+          "Dark Souls",
+          "Bloodborne"
         ],
-        "answer": "Pokémon"
+        "answer": "Monster Hunter"
       },
       {
-        "question": "¿Qué videojuego presenta a un fontanero llamado Mario? #27",
+        "question": "En qué juego el personaje principal es un joven llamado Link 46?",
         "options": [
-          "Sonic",
-          "Super Mario Bros",
-          "Zelda",
-          "Minecraft"
+          "The Legend of Zelda",
+          "Final Fantasy",
+          "Skyrim",
+          "Chrono Trigger"
         ],
-        "answer": "Super Mario Bros"
+        "answer": "The Legend of Zelda"
       },
       {
-        "question": "¿En qué videojuego luchas contra Creepers? #28",
+        "question": "Cuál es el arma principal en Halo 47?",
         "options": [
-          "Roblox",
-          "Minecraft",
-          "Call of Duty",
-          "Rust"
+          "Rifle de asalto",
+          "Espada láser",
+          "AK-47",
+          "BFG 9000"
         ],
-        "answer": "Minecraft"
+        "answer": "Rifle de asalto"
       },
       {
-        "question": "¿Cómo se llama el villano principal de The Legend of Zelda? #29",
+        "question": "Qué juego tiene lugar en una ciudad llamada Raccoon City 48?",
         "options": [
-          "Bowser",
-          "Ganondorf",
-          "Zelda",
-          "Skull Kid"
+          "Resident Evil",
+          "Silent Hill",
+          "Dead Space",
+          "The Evil Within"
         ],
-        "answer": "Ganondorf"
+        "answer": "Resident Evil"
       },
       {
-        "question": "¿Qué compañía desarrolló 'The Last of Us'? #30",
+        "question": "Cuál es el objetivo principal en Pac-Man 49?",
         "options": [
-          "Ubisoft",
-          "Naughty Dog",
-          "Valve",
-          "Rockstar"
+          "Comer puntos",
+          "Evitar fantasmas",
+          "Recoger frutas",
+          "Todo lo anterior"
         ],
-        "answer": "Naughty Dog"
+        "answer": "Todo lo anterior"
       },
       {
-        "question": "¿Qué criatura debe atrapar un entrenador Pokémon? #31",
+        "question": "Qué videojuego presenta combates entre criaturas llamadas campeones 50?",
         "options": [
-          "Pokémon",
-          "Digimon",
-          "Metamones",
-          "Slimes"
+          "League of Legends",
+          "Overwatch",
+          "Valorant",
+          "Dota 2"
         ],
-        "answer": "Pokémon"
-      },
-      {
-        "question": "¿Qué videojuego presenta a un fontanero llamado Mario? #32",
-        "options": [
-          "Sonic",
-          "Super Mario Bros",
-          "Zelda",
-          "Minecraft"
-        ],
-        "answer": "Super Mario Bros"
-      },
-      {
-        "question": "¿En qué videojuego luchas contra Creepers? #33",
-        "options": [
-          "Roblox",
-          "Minecraft",
-          "Call of Duty",
-          "Rust"
-        ],
-        "answer": "Minecraft"
-      },
-      {
-        "question": "¿Cómo se llama el villano principal de The Legend of Zelda? #34",
-        "options": [
-          "Bowser",
-          "Ganondorf",
-          "Zelda",
-          "Skull Kid"
-        ],
-        "answer": "Ganondorf"
-      },
-      {
-        "question": "¿Qué compañía desarrolló 'The Last of Us'? #35",
-        "options": [
-          "Ubisoft",
-          "Naughty Dog",
-          "Valve",
-          "Rockstar"
-        ],
-        "answer": "Naughty Dog"
-      },
-      {
-        "question": "¿Qué criatura debe atrapar un entrenador Pokémon? #36",
-        "options": [
-          "Pokémon",
-          "Digimon",
-          "Metamones",
-          "Slimes"
-        ],
-        "answer": "Pokémon"
-      },
-      {
-        "question": "¿Qué videojuego presenta a un fontanero llamado Mario? #37",
-        "options": [
-          "Sonic",
-          "Super Mario Bros",
-          "Zelda",
-          "Minecraft"
-        ],
-        "answer": "Super Mario Bros"
-      },
-      {
-        "question": "¿En qué videojuego luchas contra Creepers? #38",
-        "options": [
-          "Roblox",
-          "Minecraft",
-          "Call of Duty",
-          "Rust"
-        ],
-        "answer": "Minecraft"
-      },
-      {
-        "question": "¿Cómo se llama el villano principal de The Legend of Zelda? #39",
-        "options": [
-          "Bowser",
-          "Ganondorf",
-          "Zelda",
-          "Skull Kid"
-        ],
-        "answer": "Ganondorf"
-      },
-      {
-        "question": "¿Qué compañía desarrolló 'The Last of Us'? #40",
-        "options": [
-          "Ubisoft",
-          "Naughty Dog",
-          "Valve",
-          "Rockstar"
-        ],
-        "answer": "Naughty Dog"
-      },
-      {
-        "question": "¿Qué criatura debe atrapar un entrenador Pokémon? #41",
-        "options": [
-          "Pokémon",
-          "Digimon",
-          "Metamones",
-          "Slimes"
-        ],
-        "answer": "Pokémon"
-      },
-      {
-        "question": "¿Qué videojuego presenta a un fontanero llamado Mario? #42",
-        "options": [
-          "Sonic",
-          "Super Mario Bros",
-          "Zelda",
-          "Minecraft"
-        ],
-        "answer": "Super Mario Bros"
-      },
-      {
-        "question": "¿En qué videojuego luchas contra Creepers? #43",
-        "options": [
-          "Roblox",
-          "Minecraft",
-          "Call of Duty",
-          "Rust"
-        ],
-        "answer": "Minecraft"
-      },
-      {
-        "question": "¿Cómo se llama el villano principal de The Legend of Zelda? #44",
-        "options": [
-          "Bowser",
-          "Ganondorf",
-          "Zelda",
-          "Skull Kid"
-        ],
-        "answer": "Ganondorf"
-      },
-      {
-        "question": "¿Qué compañía desarrolló 'The Last of Us'? #45",
-        "options": [
-          "Ubisoft",
-          "Naughty Dog",
-          "Valve",
-          "Rockstar"
-        ],
-        "answer": "Naughty Dog"
-      },
-      {
-        "question": "¿Qué criatura debe atrapar un entrenador Pokémon? #46",
-        "options": [
-          "Pokémon",
-          "Digimon",
-          "Metamones",
-          "Slimes"
-        ],
-        "answer": "Pokémon"
-      },
-      {
-        "question": "¿Qué videojuego presenta a un fontanero llamado Mario? #47",
-        "options": [
-          "Sonic",
-          "Super Mario Bros",
-          "Zelda",
-          "Minecraft"
-        ],
-        "answer": "Super Mario Bros"
-      },
-      {
-        "question": "¿En qué videojuego luchas contra Creepers? #48",
-        "options": [
-          "Roblox",
-          "Minecraft",
-          "Call of Duty",
-          "Rust"
-        ],
-        "answer": "Minecraft"
-      },
-      {
-        "question": "¿Cómo se llama el villano principal de The Legend of Zelda? #49",
-        "options": [
-          "Bowser",
-          "Ganondorf",
-          "Zelda",
-          "Skull Kid"
-        ],
-        "answer": "Ganondorf"
-      },
-      {
-        "question": "¿Qué compañía desarrolló 'The Last of Us'? #50",
-        "options": [
-          "Ubisoft",
-          "Naughty Dog",
-          "Valve",
-          "Rockstar"
-        ],
-        "answer": "Naughty Dog"
+        "answer": "League of Legends"
       }
     ],
     "Películas y series": [
       {
-        "question": "¿Qué personaje lleva un látigo y sombrero en sus aventuras arqueológicas? #1",
+        "question": "¿Quién es el archienemigo de Batman?",
         "options": [
-          "Indiana Jones",
-          "James Bond",
-          "Han Solo",
-          "Rick O'Connell"
+          "Joker",
+          "Riddler",
+          "Pingüino",
+          "Dos Caras"
         ],
-        "answer": "Indiana Jones"
+        "answer": "Joker"
       },
       {
-        "question": "¿Quién es el padre de Luke Skywalker? #2",
+        "question": "¿En qué película Leonardo DiCaprio lucha contra un oso?",
         "options": [
-          "Obi-Wan",
-          "Yoda",
-          "Darth Vader",
-          "Mace Windu"
+          "The Revenant",
+          "Inception",
+          "Titanic",
+          "Shutter Island"
         ],
-        "answer": "Darth Vader"
+        "answer": "The Revenant"
       },
       {
-        "question": "¿En qué película aparece un DeLorean como máquina del tiempo? #3",
+        "question": "¿Qué director es famoso por sus giros argumentales y dirigió 'Sexto Sentido'?",
         "options": [
-          "Back to the Future",
-          "Terminator",
-          "Interstellar",
-          "The Matrix"
+          "M. Night Shyamalan",
+          "Spielberg",
+          "Nolan",
+          "Scorsese"
         ],
-        "answer": "Back to the Future"
+        "answer": "M. Night Shyamalan"
       },
       {
-        "question": "¿Qué serie tiene dragones y una lucha por el trono? #4",
+        "question": "¿Qué película inicia con el personaje principal tomando la píldora roja?",
         "options": [
-          "House of the Dragon",
-          "Game of Thrones",
-          "Vikings",
-          "The Witcher"
+          "The Matrix",
+          "Tron",
+          "Inception",
+          "Blade Runner"
         ],
-        "answer": "Game of Thrones"
+        "answer": "The Matrix"
       },
       {
-        "question": "¿Quién dirigió 'Titanic' y 'Avatar'? #5",
+        "question": "¿Quién interpretó a Jack en Titanic?",
         "options": [
-          "James Cameron",
-          "Steven Spielberg",
+          "Leonardo DiCaprio",
+          "Brad Pitt",
+          "Johnny Depp",
+          "Tom Cruise"
+        ],
+        "answer": "Leonardo DiCaprio"
+      },
+      {
+        "question": "¿Qué saga fílmica tiene como villano a Sauron?",
+        "options": [
+          "El Señor de los Anillos",
+          "Harry Potter",
+          "Star Wars",
+          "Narnia"
+        ],
+        "answer": "El Señor de los Anillos"
+      },
+      {
+        "question": "¿Qué personaje lidera a los Autobots?",
+        "options": [
+          "Optimus Prime",
+          "Bumblebee",
+          "Megatron",
+          "Ironhide"
+        ],
+        "answer": "Optimus Prime"
+      },
+      {
+        "question": "¿En qué película los juguetes cobran vida?",
+        "options": [
+          "Toy Story",
+          "Jumanji",
+          "Inside Out",
+          "Cars"
+        ],
+        "answer": "Toy Story"
+      },
+      {
+        "question": "¿Quién dirigió la trilogía de El Señor de los Anillos?",
+        "options": [
           "Peter Jackson",
-          "Ridley Scott"
+          "George Lucas",
+          "Chris Columbus",
+          "David Yates"
         ],
-        "answer": "James Cameron"
+        "answer": "Peter Jackson"
       },
       {
-        "question": "¿Qué personaje lleva un látigo y sombrero en sus aventuras arqueológicas? #6",
+        "question": "¿Cuál es el nombre del villano en Avengers: Infinity War?",
         "options": [
-          "Indiana Jones",
-          "James Bond",
-          "Han Solo",
-          "Rick O'Connell"
+          "Thanos",
+          "Ultron",
+          "Loki",
+          "Red Skull"
         ],
-        "answer": "Indiana Jones"
+        "answer": "Thanos"
       },
       {
-        "question": "¿Quién es el padre de Luke Skywalker? #7",
+        "question": "Quién es el archienemigo de Batman 11?",
         "options": [
-          "Obi-Wan",
-          "Yoda",
-          "Darth Vader",
-          "Mace Windu"
+          "Joker",
+          "Riddler",
+          "Pingüino",
+          "Dos Caras"
         ],
-        "answer": "Darth Vader"
+        "answer": "Joker"
       },
       {
-        "question": "¿En qué película aparece un DeLorean como máquina del tiempo? #8",
+        "question": "En qué película Leonardo DiCaprio lucha contra un oso 12?",
         "options": [
-          "Back to the Future",
-          "Terminator",
-          "Interstellar",
-          "The Matrix"
+          "The Revenant",
+          "Inception",
+          "Titanic",
+          "Shutter Island"
         ],
-        "answer": "Back to the Future"
+        "answer": "The Revenant"
       },
       {
-        "question": "¿Qué serie tiene dragones y una lucha por el trono? #9",
+        "question": "Qué director es famoso por sus giros argumentales y dirigió 'Sexto Sentido' 13?",
         "options": [
-          "House of the Dragon",
-          "Game of Thrones",
-          "Vikings",
-          "The Witcher"
+          "M. Night Shyamalan",
+          "Spielberg",
+          "Nolan",
+          "Scorsese"
         ],
-        "answer": "Game of Thrones"
+        "answer": "M. Night Shyamalan"
       },
       {
-        "question": "¿Quién dirigió 'Titanic' y 'Avatar'? #10",
+        "question": "Qué película inicia con el personaje principal tomando la píldora roja 14?",
         "options": [
-          "James Cameron",
-          "Steven Spielberg",
+          "The Matrix",
+          "Tron",
+          "Inception",
+          "Blade Runner"
+        ],
+        "answer": "The Matrix"
+      },
+      {
+        "question": "Quién interpretó a Jack en Titanic 15?",
+        "options": [
+          "Leonardo DiCaprio",
+          "Brad Pitt",
+          "Johnny Depp",
+          "Tom Cruise"
+        ],
+        "answer": "Leonardo DiCaprio"
+      },
+      {
+        "question": "Qué saga fílmica tiene como villano a Sauron 16?",
+        "options": [
+          "El Señor de los Anillos",
+          "Harry Potter",
+          "Star Wars",
+          "Narnia"
+        ],
+        "answer": "El Señor de los Anillos"
+      },
+      {
+        "question": "Qué personaje lidera a los Autobots 17?",
+        "options": [
+          "Optimus Prime",
+          "Bumblebee",
+          "Megatron",
+          "Ironhide"
+        ],
+        "answer": "Optimus Prime"
+      },
+      {
+        "question": "En qué película los juguetes cobran vida 18?",
+        "options": [
+          "Toy Story",
+          "Jumanji",
+          "Inside Out",
+          "Cars"
+        ],
+        "answer": "Toy Story"
+      },
+      {
+        "question": "Quién dirigió la trilogía de El Señor de los Anillos 19?",
+        "options": [
           "Peter Jackson",
-          "Ridley Scott"
+          "George Lucas",
+          "Chris Columbus",
+          "David Yates"
         ],
-        "answer": "James Cameron"
+        "answer": "Peter Jackson"
       },
       {
-        "question": "¿Qué personaje lleva un látigo y sombrero en sus aventuras arqueológicas? #11",
+        "question": "Cuál es el nombre del villano en Avengers: Infinity War 20?",
         "options": [
-          "Indiana Jones",
-          "James Bond",
-          "Han Solo",
-          "Rick O'Connell"
+          "Thanos",
+          "Ultron",
+          "Loki",
+          "Red Skull"
         ],
-        "answer": "Indiana Jones"
+        "answer": "Thanos"
       },
       {
-        "question": "¿Quién es el padre de Luke Skywalker? #12",
+        "question": "Quién es el archienemigo de Batman 21?",
         "options": [
-          "Obi-Wan",
-          "Yoda",
-          "Darth Vader",
-          "Mace Windu"
+          "Joker",
+          "Riddler",
+          "Pingüino",
+          "Dos Caras"
         ],
-        "answer": "Darth Vader"
+        "answer": "Joker"
       },
       {
-        "question": "¿En qué película aparece un DeLorean como máquina del tiempo? #13",
+        "question": "En qué película Leonardo DiCaprio lucha contra un oso 22?",
         "options": [
-          "Back to the Future",
-          "Terminator",
-          "Interstellar",
-          "The Matrix"
+          "The Revenant",
+          "Inception",
+          "Titanic",
+          "Shutter Island"
         ],
-        "answer": "Back to the Future"
+        "answer": "The Revenant"
       },
       {
-        "question": "¿Qué serie tiene dragones y una lucha por el trono? #14",
+        "question": "Qué director es famoso por sus giros argumentales y dirigió 'Sexto Sentido' 23?",
         "options": [
-          "House of the Dragon",
-          "Game of Thrones",
-          "Vikings",
-          "The Witcher"
+          "M. Night Shyamalan",
+          "Spielberg",
+          "Nolan",
+          "Scorsese"
         ],
-        "answer": "Game of Thrones"
+        "answer": "M. Night Shyamalan"
       },
       {
-        "question": "¿Quién dirigió 'Titanic' y 'Avatar'? #15",
+        "question": "Qué película inicia con el personaje principal tomando la píldora roja 24?",
         "options": [
-          "James Cameron",
-          "Steven Spielberg",
+          "The Matrix",
+          "Tron",
+          "Inception",
+          "Blade Runner"
+        ],
+        "answer": "The Matrix"
+      },
+      {
+        "question": "Quién interpretó a Jack en Titanic 25?",
+        "options": [
+          "Leonardo DiCaprio",
+          "Brad Pitt",
+          "Johnny Depp",
+          "Tom Cruise"
+        ],
+        "answer": "Leonardo DiCaprio"
+      },
+      {
+        "question": "Qué saga fílmica tiene como villano a Sauron 26?",
+        "options": [
+          "El Señor de los Anillos",
+          "Harry Potter",
+          "Star Wars",
+          "Narnia"
+        ],
+        "answer": "El Señor de los Anillos"
+      },
+      {
+        "question": "Qué personaje lidera a los Autobots 27?",
+        "options": [
+          "Optimus Prime",
+          "Bumblebee",
+          "Megatron",
+          "Ironhide"
+        ],
+        "answer": "Optimus Prime"
+      },
+      {
+        "question": "En qué película los juguetes cobran vida 28?",
+        "options": [
+          "Toy Story",
+          "Jumanji",
+          "Inside Out",
+          "Cars"
+        ],
+        "answer": "Toy Story"
+      },
+      {
+        "question": "Quién dirigió la trilogía de El Señor de los Anillos 29?",
+        "options": [
           "Peter Jackson",
-          "Ridley Scott"
+          "George Lucas",
+          "Chris Columbus",
+          "David Yates"
         ],
-        "answer": "James Cameron"
+        "answer": "Peter Jackson"
       },
       {
-        "question": "¿Qué personaje lleva un látigo y sombrero en sus aventuras arqueológicas? #16",
+        "question": "Cuál es el nombre del villano en Avengers: Infinity War 30?",
         "options": [
-          "Indiana Jones",
-          "James Bond",
-          "Han Solo",
-          "Rick O'Connell"
+          "Thanos",
+          "Ultron",
+          "Loki",
+          "Red Skull"
         ],
-        "answer": "Indiana Jones"
+        "answer": "Thanos"
       },
       {
-        "question": "¿Quién es el padre de Luke Skywalker? #17",
+        "question": "Quién es el archienemigo de Batman 31?",
         "options": [
-          "Obi-Wan",
-          "Yoda",
-          "Darth Vader",
-          "Mace Windu"
+          "Joker",
+          "Riddler",
+          "Pingüino",
+          "Dos Caras"
         ],
-        "answer": "Darth Vader"
+        "answer": "Joker"
       },
       {
-        "question": "¿En qué película aparece un DeLorean como máquina del tiempo? #18",
+        "question": "En qué película Leonardo DiCaprio lucha contra un oso 32?",
         "options": [
-          "Back to the Future",
-          "Terminator",
-          "Interstellar",
-          "The Matrix"
+          "The Revenant",
+          "Inception",
+          "Titanic",
+          "Shutter Island"
         ],
-        "answer": "Back to the Future"
+        "answer": "The Revenant"
       },
       {
-        "question": "¿Qué serie tiene dragones y una lucha por el trono? #19",
+        "question": "Qué director es famoso por sus giros argumentales y dirigió 'Sexto Sentido' 33?",
         "options": [
-          "House of the Dragon",
-          "Game of Thrones",
-          "Vikings",
-          "The Witcher"
+          "M. Night Shyamalan",
+          "Spielberg",
+          "Nolan",
+          "Scorsese"
         ],
-        "answer": "Game of Thrones"
+        "answer": "M. Night Shyamalan"
       },
       {
-        "question": "¿Quién dirigió 'Titanic' y 'Avatar'? #20",
+        "question": "Qué película inicia con el personaje principal tomando la píldora roja 34?",
         "options": [
-          "James Cameron",
-          "Steven Spielberg",
+          "The Matrix",
+          "Tron",
+          "Inception",
+          "Blade Runner"
+        ],
+        "answer": "The Matrix"
+      },
+      {
+        "question": "Quién interpretó a Jack en Titanic 35?",
+        "options": [
+          "Leonardo DiCaprio",
+          "Brad Pitt",
+          "Johnny Depp",
+          "Tom Cruise"
+        ],
+        "answer": "Leonardo DiCaprio"
+      },
+      {
+        "question": "Qué saga fílmica tiene como villano a Sauron 36?",
+        "options": [
+          "El Señor de los Anillos",
+          "Harry Potter",
+          "Star Wars",
+          "Narnia"
+        ],
+        "answer": "El Señor de los Anillos"
+      },
+      {
+        "question": "Qué personaje lidera a los Autobots 37?",
+        "options": [
+          "Optimus Prime",
+          "Bumblebee",
+          "Megatron",
+          "Ironhide"
+        ],
+        "answer": "Optimus Prime"
+      },
+      {
+        "question": "En qué película los juguetes cobran vida 38?",
+        "options": [
+          "Toy Story",
+          "Jumanji",
+          "Inside Out",
+          "Cars"
+        ],
+        "answer": "Toy Story"
+      },
+      {
+        "question": "Quién dirigió la trilogía de El Señor de los Anillos 39?",
+        "options": [
           "Peter Jackson",
-          "Ridley Scott"
+          "George Lucas",
+          "Chris Columbus",
+          "David Yates"
         ],
-        "answer": "James Cameron"
+        "answer": "Peter Jackson"
       },
       {
-        "question": "¿Qué personaje lleva un látigo y sombrero en sus aventuras arqueológicas? #21",
+        "question": "Cuál es el nombre del villano en Avengers: Infinity War 40?",
         "options": [
-          "Indiana Jones",
-          "James Bond",
-          "Han Solo",
-          "Rick O'Connell"
+          "Thanos",
+          "Ultron",
+          "Loki",
+          "Red Skull"
         ],
-        "answer": "Indiana Jones"
+        "answer": "Thanos"
       },
       {
-        "question": "¿Quién es el padre de Luke Skywalker? #22",
+        "question": "Quién es el archienemigo de Batman 41?",
         "options": [
-          "Obi-Wan",
-          "Yoda",
-          "Darth Vader",
-          "Mace Windu"
+          "Joker",
+          "Riddler",
+          "Pingüino",
+          "Dos Caras"
         ],
-        "answer": "Darth Vader"
+        "answer": "Joker"
       },
       {
-        "question": "¿En qué película aparece un DeLorean como máquina del tiempo? #23",
+        "question": "En qué película Leonardo DiCaprio lucha contra un oso 42?",
         "options": [
-          "Back to the Future",
-          "Terminator",
-          "Interstellar",
-          "The Matrix"
+          "The Revenant",
+          "Inception",
+          "Titanic",
+          "Shutter Island"
         ],
-        "answer": "Back to the Future"
+        "answer": "The Revenant"
       },
       {
-        "question": "¿Qué serie tiene dragones y una lucha por el trono? #24",
+        "question": "Qué director es famoso por sus giros argumentales y dirigió 'Sexto Sentido' 43?",
         "options": [
-          "House of the Dragon",
-          "Game of Thrones",
-          "Vikings",
-          "The Witcher"
+          "M. Night Shyamalan",
+          "Spielberg",
+          "Nolan",
+          "Scorsese"
         ],
-        "answer": "Game of Thrones"
+        "answer": "M. Night Shyamalan"
       },
       {
-        "question": "¿Quién dirigió 'Titanic' y 'Avatar'? #25",
+        "question": "Qué película inicia con el personaje principal tomando la píldora roja 44?",
         "options": [
-          "James Cameron",
-          "Steven Spielberg",
+          "The Matrix",
+          "Tron",
+          "Inception",
+          "Blade Runner"
+        ],
+        "answer": "The Matrix"
+      },
+      {
+        "question": "Quién interpretó a Jack en Titanic 45?",
+        "options": [
+          "Leonardo DiCaprio",
+          "Brad Pitt",
+          "Johnny Depp",
+          "Tom Cruise"
+        ],
+        "answer": "Leonardo DiCaprio"
+      },
+      {
+        "question": "Qué saga fílmica tiene como villano a Sauron 46?",
+        "options": [
+          "El Señor de los Anillos",
+          "Harry Potter",
+          "Star Wars",
+          "Narnia"
+        ],
+        "answer": "El Señor de los Anillos"
+      },
+      {
+        "question": "Qué personaje lidera a los Autobots 47?",
+        "options": [
+          "Optimus Prime",
+          "Bumblebee",
+          "Megatron",
+          "Ironhide"
+        ],
+        "answer": "Optimus Prime"
+      },
+      {
+        "question": "En qué película los juguetes cobran vida 48?",
+        "options": [
+          "Toy Story",
+          "Jumanji",
+          "Inside Out",
+          "Cars"
+        ],
+        "answer": "Toy Story"
+      },
+      {
+        "question": "Quién dirigió la trilogía de El Señor de los Anillos 49?",
+        "options": [
           "Peter Jackson",
-          "Ridley Scott"
+          "George Lucas",
+          "Chris Columbus",
+          "David Yates"
         ],
-        "answer": "James Cameron"
+        "answer": "Peter Jackson"
       },
       {
-        "question": "¿Qué personaje lleva un látigo y sombrero en sus aventuras arqueológicas? #26",
+        "question": "Cuál es el nombre del villano en Avengers: Infinity War 50?",
         "options": [
-          "Indiana Jones",
-          "James Bond",
-          "Han Solo",
-          "Rick O'Connell"
+          "Thanos",
+          "Ultron",
+          "Loki",
+          "Red Skull"
         ],
-        "answer": "Indiana Jones"
-      },
-      {
-        "question": "¿Quién es el padre de Luke Skywalker? #27",
-        "options": [
-          "Obi-Wan",
-          "Yoda",
-          "Darth Vader",
-          "Mace Windu"
-        ],
-        "answer": "Darth Vader"
-      },
-      {
-        "question": "¿En qué película aparece un DeLorean como máquina del tiempo? #28",
-        "options": [
-          "Back to the Future",
-          "Terminator",
-          "Interstellar",
-          "The Matrix"
-        ],
-        "answer": "Back to the Future"
-      },
-      {
-        "question": "¿Qué serie tiene dragones y una lucha por el trono? #29",
-        "options": [
-          "House of the Dragon",
-          "Game of Thrones",
-          "Vikings",
-          "The Witcher"
-        ],
-        "answer": "Game of Thrones"
-      },
-      {
-        "question": "¿Quién dirigió 'Titanic' y 'Avatar'? #30",
-        "options": [
-          "James Cameron",
-          "Steven Spielberg",
-          "Peter Jackson",
-          "Ridley Scott"
-        ],
-        "answer": "James Cameron"
-      },
-      {
-        "question": "¿Qué personaje lleva un látigo y sombrero en sus aventuras arqueológicas? #31",
-        "options": [
-          "Indiana Jones",
-          "James Bond",
-          "Han Solo",
-          "Rick O'Connell"
-        ],
-        "answer": "Indiana Jones"
-      },
-      {
-        "question": "¿Quién es el padre de Luke Skywalker? #32",
-        "options": [
-          "Obi-Wan",
-          "Yoda",
-          "Darth Vader",
-          "Mace Windu"
-        ],
-        "answer": "Darth Vader"
-      },
-      {
-        "question": "¿En qué película aparece un DeLorean como máquina del tiempo? #33",
-        "options": [
-          "Back to the Future",
-          "Terminator",
-          "Interstellar",
-          "The Matrix"
-        ],
-        "answer": "Back to the Future"
-      },
-      {
-        "question": "¿Qué serie tiene dragones y una lucha por el trono? #34",
-        "options": [
-          "House of the Dragon",
-          "Game of Thrones",
-          "Vikings",
-          "The Witcher"
-        ],
-        "answer": "Game of Thrones"
-      },
-      {
-        "question": "¿Quién dirigió 'Titanic' y 'Avatar'? #35",
-        "options": [
-          "James Cameron",
-          "Steven Spielberg",
-          "Peter Jackson",
-          "Ridley Scott"
-        ],
-        "answer": "James Cameron"
-      },
-      {
-        "question": "¿Qué personaje lleva un látigo y sombrero en sus aventuras arqueológicas? #36",
-        "options": [
-          "Indiana Jones",
-          "James Bond",
-          "Han Solo",
-          "Rick O'Connell"
-        ],
-        "answer": "Indiana Jones"
-      },
-      {
-        "question": "¿Quién es el padre de Luke Skywalker? #37",
-        "options": [
-          "Obi-Wan",
-          "Yoda",
-          "Darth Vader",
-          "Mace Windu"
-        ],
-        "answer": "Darth Vader"
-      },
-      {
-        "question": "¿En qué película aparece un DeLorean como máquina del tiempo? #38",
-        "options": [
-          "Back to the Future",
-          "Terminator",
-          "Interstellar",
-          "The Matrix"
-        ],
-        "answer": "Back to the Future"
-      },
-      {
-        "question": "¿Qué serie tiene dragones y una lucha por el trono? #39",
-        "options": [
-          "House of the Dragon",
-          "Game of Thrones",
-          "Vikings",
-          "The Witcher"
-        ],
-        "answer": "Game of Thrones"
-      },
-      {
-        "question": "¿Quién dirigió 'Titanic' y 'Avatar'? #40",
-        "options": [
-          "James Cameron",
-          "Steven Spielberg",
-          "Peter Jackson",
-          "Ridley Scott"
-        ],
-        "answer": "James Cameron"
-      },
-      {
-        "question": "¿Qué personaje lleva un látigo y sombrero en sus aventuras arqueológicas? #41",
-        "options": [
-          "Indiana Jones",
-          "James Bond",
-          "Han Solo",
-          "Rick O'Connell"
-        ],
-        "answer": "Indiana Jones"
-      },
-      {
-        "question": "¿Quién es el padre de Luke Skywalker? #42",
-        "options": [
-          "Obi-Wan",
-          "Yoda",
-          "Darth Vader",
-          "Mace Windu"
-        ],
-        "answer": "Darth Vader"
-      },
-      {
-        "question": "¿En qué película aparece un DeLorean como máquina del tiempo? #43",
-        "options": [
-          "Back to the Future",
-          "Terminator",
-          "Interstellar",
-          "The Matrix"
-        ],
-        "answer": "Back to the Future"
-      },
-      {
-        "question": "¿Qué serie tiene dragones y una lucha por el trono? #44",
-        "options": [
-          "House of the Dragon",
-          "Game of Thrones",
-          "Vikings",
-          "The Witcher"
-        ],
-        "answer": "Game of Thrones"
-      },
-      {
-        "question": "¿Quién dirigió 'Titanic' y 'Avatar'? #45",
-        "options": [
-          "James Cameron",
-          "Steven Spielberg",
-          "Peter Jackson",
-          "Ridley Scott"
-        ],
-        "answer": "James Cameron"
-      },
-      {
-        "question": "¿Qué personaje lleva un látigo y sombrero en sus aventuras arqueológicas? #46",
-        "options": [
-          "Indiana Jones",
-          "James Bond",
-          "Han Solo",
-          "Rick O'Connell"
-        ],
-        "answer": "Indiana Jones"
-      },
-      {
-        "question": "¿Quién es el padre de Luke Skywalker? #47",
-        "options": [
-          "Obi-Wan",
-          "Yoda",
-          "Darth Vader",
-          "Mace Windu"
-        ],
-        "answer": "Darth Vader"
-      },
-      {
-        "question": "¿En qué película aparece un DeLorean como máquina del tiempo? #48",
-        "options": [
-          "Back to the Future",
-          "Terminator",
-          "Interstellar",
-          "The Matrix"
-        ],
-        "answer": "Back to the Future"
-      },
-      {
-        "question": "¿Qué serie tiene dragones y una lucha por el trono? #49",
-        "options": [
-          "House of the Dragon",
-          "Game of Thrones",
-          "Vikings",
-          "The Witcher"
-        ],
-        "answer": "Game of Thrones"
-      },
-      {
-        "question": "¿Quién dirigió 'Titanic' y 'Avatar'? #50",
-        "options": [
-          "James Cameron",
-          "Steven Spielberg",
-          "Peter Jackson",
-          "Ridley Scott"
-        ],
-        "answer": "James Cameron"
+        "answer": "Thanos"
       }
     ],
     "Anime, comics y manga": [
       {
-        "question": "¿Quién grita '¡Dattebayo!'? #1",
+        "question": "¿Cuál es el apellido de Naruto?",
         "options": [
-          "Naruto",
+          "Uzumaki",
+          "Uchiha",
+          "Hatake",
+          "Senju"
+        ],
+        "answer": "Uzumaki"
+      },
+      {
+        "question": "¿Qué personaje de Dragon Ball Z se transforma en Super Saiyan?",
+        "options": [
           "Goku",
-          "Luffy",
-          "Ichigo"
+          "Krillin",
+          "Yamcha",
+          "Tien"
         ],
-        "answer": "Naruto"
+        "answer": "Goku"
       },
       {
-        "question": "¿Qué fruta comió Monkey D. Luffy? #2",
+        "question": "¿Qué anime sigue a cazadores con habilidades especiales?",
         "options": [
-          "Fruta del Diablo",
-          "Fruta Espiritual",
-          "Manzana de poder",
-          "Fruta Sagrada"
-        ],
-        "answer": "Fruta del Diablo"
-      },
-      {
-        "question": "¿Qué héroe tiene una armadura de hierro y es multimillonario? #3",
-        "options": [
-          "Iron Man",
-          "Batman",
-          "Hulk",
-          "Flash"
-        ],
-        "answer": "Iron Man"
-      },
-      {
-        "question": "¿Quién es el villano principal de Dragon Ball Z durante la saga de Freezer? #4",
-        "options": [
-          "Cell",
-          "Majin Boo",
-          "Freezer",
-          "Raditz"
-        ],
-        "answer": "Freezer"
-      },
-      {
-        "question": "¿Qué anime presenta cazadores de demonios con espadas nichirin? #5",
-        "options": [
-          "Demon Slayer",
+          "Hunter x Hunter",
+          "Naruto",
           "Bleach",
-          "Naruto",
-          "Attack on Titan"
+          "One Piece"
         ],
-        "answer": "Demon Slayer"
+        "answer": "Hunter x Hunter"
       },
       {
-        "question": "¿Quién grita '¡Dattebayo!'? #6",
+        "question": "¿Qué anime tiene un cuaderno mortal?",
         "options": [
-          "Naruto",
+          "Death Note",
+          "Tokyo Ghoul",
+          "Paranoia Agent",
+          "Another"
+        ],
+        "answer": "Death Note"
+      },
+      {
+        "question": "¿Quién es el principal rival de Naruto?",
+        "options": [
+          "Sasuke",
+          "Gaara",
+          "Neji",
+          "Kiba"
+        ],
+        "answer": "Sasuke"
+      },
+      {
+        "question": "¿Qué anime tiene titanes devoradores?",
+        "options": [
+          "Attack on Titan",
+          "Claymore",
+          "Berserk",
+          "Elfen Lied"
+        ],
+        "answer": "Attack on Titan"
+      },
+      {
+        "question": "¿Cuál es el nombre del pirata de sombrero de paja?",
+        "options": [
+          "Luffy",
+          "Zoro",
+          "Ace",
+          "Shanks"
+        ],
+        "answer": "Luffy"
+      },
+      {
+        "question": "¿Qué guerrero Saiyan tiene una hija llamada Pan?",
+        "options": [
+          "Gohan",
           "Goku",
-          "Luffy",
-          "Ichigo"
+          "Vegeta",
+          "Trunks"
         ],
-        "answer": "Naruto"
+        "answer": "Gohan"
       },
       {
-        "question": "¿Qué fruta comió Monkey D. Luffy? #7",
+        "question": "¿Quién usa una katana llamada Zangetsu?",
         "options": [
-          "Fruta del Diablo",
-          "Fruta Espiritual",
-          "Manzana de poder",
-          "Fruta Sagrada"
+          "Ichigo",
+          "Gintoki",
+          "Tanjiro",
+          "Levi"
         ],
-        "answer": "Fruta del Diablo"
+        "answer": "Ichigo"
       },
       {
-        "question": "¿Qué héroe tiene una armadura de hierro y es multimillonario? #8",
+        "question": "¿En qué anime los héroes entrenan en la UA Academy?",
         "options": [
-          "Iron Man",
-          "Batman",
-          "Hulk",
-          "Flash"
+          "My Hero Academia",
+          "One Punch Man",
+          "Mob Psycho 100",
+          "Black Clover"
         ],
-        "answer": "Iron Man"
+        "answer": "My Hero Academia"
       },
       {
-        "question": "¿Quién es el villano principal de Dragon Ball Z durante la saga de Freezer? #9",
+        "question": "Cuál es el apellido de Naruto 11?",
         "options": [
-          "Cell",
-          "Majin Boo",
-          "Freezer",
-          "Raditz"
+          "Uzumaki",
+          "Uchiha",
+          "Hatake",
+          "Senju"
         ],
-        "answer": "Freezer"
+        "answer": "Uzumaki"
       },
       {
-        "question": "¿Qué anime presenta cazadores de demonios con espadas nichirin? #10",
+        "question": "Qué personaje de Dragon Ball Z se transforma en Super Saiyan 12?",
         "options": [
-          "Demon Slayer",
-          "Bleach",
-          "Naruto",
-          "Attack on Titan"
-        ],
-        "answer": "Demon Slayer"
-      },
-      {
-        "question": "¿Quién grita '¡Dattebayo!'? #11",
-        "options": [
-          "Naruto",
           "Goku",
-          "Luffy",
-          "Ichigo"
+          "Krillin",
+          "Yamcha",
+          "Tien"
         ],
-        "answer": "Naruto"
+        "answer": "Goku"
       },
       {
-        "question": "¿Qué fruta comió Monkey D. Luffy? #12",
+        "question": "Qué anime sigue a cazadores con habilidades especiales 13?",
         "options": [
-          "Fruta del Diablo",
-          "Fruta Espiritual",
-          "Manzana de poder",
-          "Fruta Sagrada"
-        ],
-        "answer": "Fruta del Diablo"
-      },
-      {
-        "question": "¿Qué héroe tiene una armadura de hierro y es multimillonario? #13",
-        "options": [
-          "Iron Man",
-          "Batman",
-          "Hulk",
-          "Flash"
-        ],
-        "answer": "Iron Man"
-      },
-      {
-        "question": "¿Quién es el villano principal de Dragon Ball Z durante la saga de Freezer? #14",
-        "options": [
-          "Cell",
-          "Majin Boo",
-          "Freezer",
-          "Raditz"
-        ],
-        "answer": "Freezer"
-      },
-      {
-        "question": "¿Qué anime presenta cazadores de demonios con espadas nichirin? #15",
-        "options": [
-          "Demon Slayer",
+          "Hunter x Hunter",
+          "Naruto",
           "Bleach",
-          "Naruto",
-          "Attack on Titan"
+          "One Piece"
         ],
-        "answer": "Demon Slayer"
+        "answer": "Hunter x Hunter"
       },
       {
-        "question": "¿Quién grita '¡Dattebayo!'? #16",
+        "question": "Qué anime tiene un cuaderno mortal 14?",
         "options": [
-          "Naruto",
+          "Death Note",
+          "Tokyo Ghoul",
+          "Paranoia Agent",
+          "Another"
+        ],
+        "answer": "Death Note"
+      },
+      {
+        "question": "Quién es el principal rival de Naruto 15?",
+        "options": [
+          "Sasuke",
+          "Gaara",
+          "Neji",
+          "Kiba"
+        ],
+        "answer": "Sasuke"
+      },
+      {
+        "question": "Qué anime tiene titanes devoradores 16?",
+        "options": [
+          "Attack on Titan",
+          "Claymore",
+          "Berserk",
+          "Elfen Lied"
+        ],
+        "answer": "Attack on Titan"
+      },
+      {
+        "question": "Cuál es el nombre del pirata de sombrero de paja 17?",
+        "options": [
+          "Luffy",
+          "Zoro",
+          "Ace",
+          "Shanks"
+        ],
+        "answer": "Luffy"
+      },
+      {
+        "question": "Qué guerrero Saiyan tiene una hija llamada Pan 18?",
+        "options": [
+          "Gohan",
           "Goku",
-          "Luffy",
-          "Ichigo"
+          "Vegeta",
+          "Trunks"
         ],
-        "answer": "Naruto"
+        "answer": "Gohan"
       },
       {
-        "question": "¿Qué fruta comió Monkey D. Luffy? #17",
+        "question": "Quién usa una katana llamada Zangetsu 19?",
         "options": [
-          "Fruta del Diablo",
-          "Fruta Espiritual",
-          "Manzana de poder",
-          "Fruta Sagrada"
+          "Ichigo",
+          "Gintoki",
+          "Tanjiro",
+          "Levi"
         ],
-        "answer": "Fruta del Diablo"
+        "answer": "Ichigo"
       },
       {
-        "question": "¿Qué héroe tiene una armadura de hierro y es multimillonario? #18",
+        "question": "En qué anime los héroes entrenan en la UA Academy 20?",
         "options": [
-          "Iron Man",
-          "Batman",
-          "Hulk",
-          "Flash"
+          "My Hero Academia",
+          "One Punch Man",
+          "Mob Psycho 100",
+          "Black Clover"
         ],
-        "answer": "Iron Man"
+        "answer": "My Hero Academia"
       },
       {
-        "question": "¿Quién es el villano principal de Dragon Ball Z durante la saga de Freezer? #19",
+        "question": "Cuál es el apellido de Naruto 21?",
         "options": [
-          "Cell",
-          "Majin Boo",
-          "Freezer",
-          "Raditz"
+          "Uzumaki",
+          "Uchiha",
+          "Hatake",
+          "Senju"
         ],
-        "answer": "Freezer"
+        "answer": "Uzumaki"
       },
       {
-        "question": "¿Qué anime presenta cazadores de demonios con espadas nichirin? #20",
+        "question": "Qué personaje de Dragon Ball Z se transforma en Super Saiyan 22?",
         "options": [
-          "Demon Slayer",
-          "Bleach",
-          "Naruto",
-          "Attack on Titan"
-        ],
-        "answer": "Demon Slayer"
-      },
-      {
-        "question": "¿Quién grita '¡Dattebayo!'? #21",
-        "options": [
-          "Naruto",
           "Goku",
-          "Luffy",
-          "Ichigo"
+          "Krillin",
+          "Yamcha",
+          "Tien"
         ],
-        "answer": "Naruto"
+        "answer": "Goku"
       },
       {
-        "question": "¿Qué fruta comió Monkey D. Luffy? #22",
+        "question": "Qué anime sigue a cazadores con habilidades especiales 23?",
         "options": [
-          "Fruta del Diablo",
-          "Fruta Espiritual",
-          "Manzana de poder",
-          "Fruta Sagrada"
-        ],
-        "answer": "Fruta del Diablo"
-      },
-      {
-        "question": "¿Qué héroe tiene una armadura de hierro y es multimillonario? #23",
-        "options": [
-          "Iron Man",
-          "Batman",
-          "Hulk",
-          "Flash"
-        ],
-        "answer": "Iron Man"
-      },
-      {
-        "question": "¿Quién es el villano principal de Dragon Ball Z durante la saga de Freezer? #24",
-        "options": [
-          "Cell",
-          "Majin Boo",
-          "Freezer",
-          "Raditz"
-        ],
-        "answer": "Freezer"
-      },
-      {
-        "question": "¿Qué anime presenta cazadores de demonios con espadas nichirin? #25",
-        "options": [
-          "Demon Slayer",
+          "Hunter x Hunter",
+          "Naruto",
           "Bleach",
-          "Naruto",
-          "Attack on Titan"
+          "One Piece"
         ],
-        "answer": "Demon Slayer"
+        "answer": "Hunter x Hunter"
       },
       {
-        "question": "¿Quién grita '¡Dattebayo!'? #26",
+        "question": "Qué anime tiene un cuaderno mortal 24?",
         "options": [
-          "Naruto",
+          "Death Note",
+          "Tokyo Ghoul",
+          "Paranoia Agent",
+          "Another"
+        ],
+        "answer": "Death Note"
+      },
+      {
+        "question": "Quién es el principal rival de Naruto 25?",
+        "options": [
+          "Sasuke",
+          "Gaara",
+          "Neji",
+          "Kiba"
+        ],
+        "answer": "Sasuke"
+      },
+      {
+        "question": "Qué anime tiene titanes devoradores 26?",
+        "options": [
+          "Attack on Titan",
+          "Claymore",
+          "Berserk",
+          "Elfen Lied"
+        ],
+        "answer": "Attack on Titan"
+      },
+      {
+        "question": "Cuál es el nombre del pirata de sombrero de paja 27?",
+        "options": [
+          "Luffy",
+          "Zoro",
+          "Ace",
+          "Shanks"
+        ],
+        "answer": "Luffy"
+      },
+      {
+        "question": "Qué guerrero Saiyan tiene una hija llamada Pan 28?",
+        "options": [
+          "Gohan",
           "Goku",
-          "Luffy",
-          "Ichigo"
+          "Vegeta",
+          "Trunks"
         ],
-        "answer": "Naruto"
+        "answer": "Gohan"
       },
       {
-        "question": "¿Qué fruta comió Monkey D. Luffy? #27",
+        "question": "Quién usa una katana llamada Zangetsu 29?",
         "options": [
-          "Fruta del Diablo",
-          "Fruta Espiritual",
-          "Manzana de poder",
-          "Fruta Sagrada"
+          "Ichigo",
+          "Gintoki",
+          "Tanjiro",
+          "Levi"
         ],
-        "answer": "Fruta del Diablo"
+        "answer": "Ichigo"
       },
       {
-        "question": "¿Qué héroe tiene una armadura de hierro y es multimillonario? #28",
+        "question": "En qué anime los héroes entrenan en la UA Academy 30?",
         "options": [
-          "Iron Man",
-          "Batman",
-          "Hulk",
-          "Flash"
+          "My Hero Academia",
+          "One Punch Man",
+          "Mob Psycho 100",
+          "Black Clover"
         ],
-        "answer": "Iron Man"
+        "answer": "My Hero Academia"
       },
       {
-        "question": "¿Quién es el villano principal de Dragon Ball Z durante la saga de Freezer? #29",
+        "question": "Cuál es el apellido de Naruto 31?",
         "options": [
-          "Cell",
-          "Majin Boo",
-          "Freezer",
-          "Raditz"
+          "Uzumaki",
+          "Uchiha",
+          "Hatake",
+          "Senju"
         ],
-        "answer": "Freezer"
+        "answer": "Uzumaki"
       },
       {
-        "question": "¿Qué anime presenta cazadores de demonios con espadas nichirin? #30",
+        "question": "Qué personaje de Dragon Ball Z se transforma en Super Saiyan 32?",
         "options": [
-          "Demon Slayer",
-          "Bleach",
-          "Naruto",
-          "Attack on Titan"
-        ],
-        "answer": "Demon Slayer"
-      },
-      {
-        "question": "¿Quién grita '¡Dattebayo!'? #31",
-        "options": [
-          "Naruto",
           "Goku",
-          "Luffy",
-          "Ichigo"
+          "Krillin",
+          "Yamcha",
+          "Tien"
         ],
-        "answer": "Naruto"
+        "answer": "Goku"
       },
       {
-        "question": "¿Qué fruta comió Monkey D. Luffy? #32",
+        "question": "Qué anime sigue a cazadores con habilidades especiales 33?",
         "options": [
-          "Fruta del Diablo",
-          "Fruta Espiritual",
-          "Manzana de poder",
-          "Fruta Sagrada"
-        ],
-        "answer": "Fruta del Diablo"
-      },
-      {
-        "question": "¿Qué héroe tiene una armadura de hierro y es multimillonario? #33",
-        "options": [
-          "Iron Man",
-          "Batman",
-          "Hulk",
-          "Flash"
-        ],
-        "answer": "Iron Man"
-      },
-      {
-        "question": "¿Quién es el villano principal de Dragon Ball Z durante la saga de Freezer? #34",
-        "options": [
-          "Cell",
-          "Majin Boo",
-          "Freezer",
-          "Raditz"
-        ],
-        "answer": "Freezer"
-      },
-      {
-        "question": "¿Qué anime presenta cazadores de demonios con espadas nichirin? #35",
-        "options": [
-          "Demon Slayer",
+          "Hunter x Hunter",
+          "Naruto",
           "Bleach",
-          "Naruto",
-          "Attack on Titan"
+          "One Piece"
         ],
-        "answer": "Demon Slayer"
+        "answer": "Hunter x Hunter"
       },
       {
-        "question": "¿Quién grita '¡Dattebayo!'? #36",
+        "question": "Qué anime tiene un cuaderno mortal 34?",
         "options": [
-          "Naruto",
+          "Death Note",
+          "Tokyo Ghoul",
+          "Paranoia Agent",
+          "Another"
+        ],
+        "answer": "Death Note"
+      },
+      {
+        "question": "Quién es el principal rival de Naruto 35?",
+        "options": [
+          "Sasuke",
+          "Gaara",
+          "Neji",
+          "Kiba"
+        ],
+        "answer": "Sasuke"
+      },
+      {
+        "question": "Qué anime tiene titanes devoradores 36?",
+        "options": [
+          "Attack on Titan",
+          "Claymore",
+          "Berserk",
+          "Elfen Lied"
+        ],
+        "answer": "Attack on Titan"
+      },
+      {
+        "question": "Cuál es el nombre del pirata de sombrero de paja 37?",
+        "options": [
+          "Luffy",
+          "Zoro",
+          "Ace",
+          "Shanks"
+        ],
+        "answer": "Luffy"
+      },
+      {
+        "question": "Qué guerrero Saiyan tiene una hija llamada Pan 38?",
+        "options": [
+          "Gohan",
           "Goku",
-          "Luffy",
-          "Ichigo"
+          "Vegeta",
+          "Trunks"
         ],
-        "answer": "Naruto"
+        "answer": "Gohan"
       },
       {
-        "question": "¿Qué fruta comió Monkey D. Luffy? #37",
+        "question": "Quién usa una katana llamada Zangetsu 39?",
         "options": [
-          "Fruta del Diablo",
-          "Fruta Espiritual",
-          "Manzana de poder",
-          "Fruta Sagrada"
+          "Ichigo",
+          "Gintoki",
+          "Tanjiro",
+          "Levi"
         ],
-        "answer": "Fruta del Diablo"
+        "answer": "Ichigo"
       },
       {
-        "question": "¿Qué héroe tiene una armadura de hierro y es multimillonario? #38",
+        "question": "En qué anime los héroes entrenan en la UA Academy 40?",
         "options": [
-          "Iron Man",
-          "Batman",
-          "Hulk",
-          "Flash"
+          "My Hero Academia",
+          "One Punch Man",
+          "Mob Psycho 100",
+          "Black Clover"
         ],
-        "answer": "Iron Man"
+        "answer": "My Hero Academia"
       },
       {
-        "question": "¿Quién es el villano principal de Dragon Ball Z durante la saga de Freezer? #39",
+        "question": "Cuál es el apellido de Naruto 41?",
         "options": [
-          "Cell",
-          "Majin Boo",
-          "Freezer",
-          "Raditz"
+          "Uzumaki",
+          "Uchiha",
+          "Hatake",
+          "Senju"
         ],
-        "answer": "Freezer"
+        "answer": "Uzumaki"
       },
       {
-        "question": "¿Qué anime presenta cazadores de demonios con espadas nichirin? #40",
+        "question": "Qué personaje de Dragon Ball Z se transforma en Super Saiyan 42?",
         "options": [
-          "Demon Slayer",
-          "Bleach",
-          "Naruto",
-          "Attack on Titan"
-        ],
-        "answer": "Demon Slayer"
-      },
-      {
-        "question": "¿Quién grita '¡Dattebayo!'? #41",
-        "options": [
-          "Naruto",
           "Goku",
-          "Luffy",
-          "Ichigo"
+          "Krillin",
+          "Yamcha",
+          "Tien"
         ],
-        "answer": "Naruto"
+        "answer": "Goku"
       },
       {
-        "question": "¿Qué fruta comió Monkey D. Luffy? #42",
+        "question": "Qué anime sigue a cazadores con habilidades especiales 43?",
         "options": [
-          "Fruta del Diablo",
-          "Fruta Espiritual",
-          "Manzana de poder",
-          "Fruta Sagrada"
-        ],
-        "answer": "Fruta del Diablo"
-      },
-      {
-        "question": "¿Qué héroe tiene una armadura de hierro y es multimillonario? #43",
-        "options": [
-          "Iron Man",
-          "Batman",
-          "Hulk",
-          "Flash"
-        ],
-        "answer": "Iron Man"
-      },
-      {
-        "question": "¿Quién es el villano principal de Dragon Ball Z durante la saga de Freezer? #44",
-        "options": [
-          "Cell",
-          "Majin Boo",
-          "Freezer",
-          "Raditz"
-        ],
-        "answer": "Freezer"
-      },
-      {
-        "question": "¿Qué anime presenta cazadores de demonios con espadas nichirin? #45",
-        "options": [
-          "Demon Slayer",
+          "Hunter x Hunter",
+          "Naruto",
           "Bleach",
-          "Naruto",
-          "Attack on Titan"
+          "One Piece"
         ],
-        "answer": "Demon Slayer"
+        "answer": "Hunter x Hunter"
       },
       {
-        "question": "¿Quién grita '¡Dattebayo!'? #46",
+        "question": "Qué anime tiene un cuaderno mortal 44?",
         "options": [
-          "Naruto",
+          "Death Note",
+          "Tokyo Ghoul",
+          "Paranoia Agent",
+          "Another"
+        ],
+        "answer": "Death Note"
+      },
+      {
+        "question": "Quién es el principal rival de Naruto 45?",
+        "options": [
+          "Sasuke",
+          "Gaara",
+          "Neji",
+          "Kiba"
+        ],
+        "answer": "Sasuke"
+      },
+      {
+        "question": "Qué anime tiene titanes devoradores 46?",
+        "options": [
+          "Attack on Titan",
+          "Claymore",
+          "Berserk",
+          "Elfen Lied"
+        ],
+        "answer": "Attack on Titan"
+      },
+      {
+        "question": "Cuál es el nombre del pirata de sombrero de paja 47?",
+        "options": [
+          "Luffy",
+          "Zoro",
+          "Ace",
+          "Shanks"
+        ],
+        "answer": "Luffy"
+      },
+      {
+        "question": "Qué guerrero Saiyan tiene una hija llamada Pan 48?",
+        "options": [
+          "Gohan",
           "Goku",
-          "Luffy",
-          "Ichigo"
+          "Vegeta",
+          "Trunks"
         ],
-        "answer": "Naruto"
+        "answer": "Gohan"
       },
       {
-        "question": "¿Qué fruta comió Monkey D. Luffy? #47",
+        "question": "Quién usa una katana llamada Zangetsu 49?",
         "options": [
-          "Fruta del Diablo",
-          "Fruta Espiritual",
-          "Manzana de poder",
-          "Fruta Sagrada"
+          "Ichigo",
+          "Gintoki",
+          "Tanjiro",
+          "Levi"
         ],
-        "answer": "Fruta del Diablo"
+        "answer": "Ichigo"
       },
       {
-        "question": "¿Qué héroe tiene una armadura de hierro y es multimillonario? #48",
+        "question": "En qué anime los héroes entrenan en la UA Academy 50?",
         "options": [
-          "Iron Man",
-          "Batman",
-          "Hulk",
-          "Flash"
+          "My Hero Academia",
+          "One Punch Man",
+          "Mob Psycho 100",
+          "Black Clover"
         ],
-        "answer": "Iron Man"
-      },
-      {
-        "question": "¿Quién es el villano principal de Dragon Ball Z durante la saga de Freezer? #49",
-        "options": [
-          "Cell",
-          "Majin Boo",
-          "Freezer",
-          "Raditz"
-        ],
-        "answer": "Freezer"
-      },
-      {
-        "question": "¿Qué anime presenta cazadores de demonios con espadas nichirin? #50",
-        "options": [
-          "Demon Slayer",
-          "Bleach",
-          "Naruto",
-          "Attack on Titan"
-        ],
-        "answer": "Demon Slayer"
+        "answer": "My Hero Academia"
       }
     ]
   }
