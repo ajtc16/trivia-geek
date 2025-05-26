@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useMemo } from "react";
 import { motion } from "framer-motion";
 
 const Quiz = ({ category, onBack }) => {
@@ -9,17 +9,16 @@ const Quiz = ({ category, onBack }) => {
   const [highscore, setHighscore] = useState(0);
   const [playerName, setPlayerName] = useState("");
 
-    useEffect(() => {
+  useEffect(() => {
     fetch("/data/trivia_questions.json")
-        .then((res) => res.json())
-        .then((data) => {
+      .then((res) => res.json())
+      .then((data) => {
         const fullSet = data["¿Qué tan geek eres?"][category] || [];
         const shuffled = fullSet.sort(() => 0.5 - Math.random());
         const selected = shuffled.slice(0, 10);
         setQuestions(selected);
-        });
-    }, [category]);
-
+      });
+  }, [category]);
 
   useEffect(() => {
     if (showResult) {
@@ -64,6 +63,12 @@ const Quiz = ({ category, onBack }) => {
 
   if (!questions.length) return <p className="text-white">Cargando...</p>;
 
+  const current = questions[index];
+
+  const shuffledOptions = useMemo(() => {
+    return [...current.options].sort(() => 0.5 - Math.random());
+  }, [index]);
+
   if (showResult) {
     const scoreKey = `${category}-scores`;
     const scores = JSON.parse(localStorage.getItem(scoreKey) || "[]");
@@ -105,12 +110,12 @@ const Quiz = ({ category, onBack }) => {
         </div>
 
         <button
-  disabled
-  className="bg-gray-500 text-white font-bold py-3 px-6 rounded-lg transition mb-4 opacity-50 cursor-not-allowed"
-  title="Muy pronto disponible"
->
-  Consigue tu camiseta geek 🎮 (próximamente)
-</button>
+          disabled
+          className="bg-gray-500 text-white font-bold py-3 px-6 rounded-lg transition mb-4 opacity-50 cursor-not-allowed"
+          title="Muy pronto disponible"
+        >
+          Consigue tu camiseta geek 🎮 (próximamente)
+        </button>
 
         <button
           onClick={onBack}
@@ -131,8 +136,6 @@ const Quiz = ({ category, onBack }) => {
     );
   }
 
-  const current = questions[index];
-
   return (
     <motion.div
       className="min-h-screen flex flex-col justify-center items-center px-4 text-center"
@@ -147,7 +150,7 @@ const Quiz = ({ category, onBack }) => {
       <p className="text-white text-lg mb-4">{current.question}</p>
 
       <div className="grid gap-3 w-full max-w-md">
-        {current.options.map((option) => (
+        {shuffledOptions.map((option) => (
           <motion.button
             key={option}
             onClick={() => handleAnswer(option)}
