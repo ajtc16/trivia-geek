@@ -1,5 +1,6 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useMemo } from "react";
 import { motion } from "framer-motion";
+import { supabase } from "../lib/supabaseClient";
 
 const Quiz = ({ category, onBack }) => {
   const [questions, setQuestions] = useState([]);
@@ -9,17 +10,22 @@ const Quiz = ({ category, onBack }) => {
   const [highscore, setHighscore] = useState(0);
   const [playerName, setPlayerName] = useState("");
 
-    useEffect(() => {
+  useEffect(() => {
     fetch("/data/trivia_questions.json")
-        .then((res) => res.json())
-        .then((data) => {
+      .then((res) => res.json())
+      .then((data) => {
         const fullSet = data["¿Qué tan geek eres?"][category] || [];
         const shuffled = fullSet.sort(() => 0.5 - Math.random());
         const selected = shuffled.slice(0, 10);
         setQuestions(selected);
-        });
-    }, [category]);
+      });
+  }, [category]);
 
+  const current = questions[index];
+  const shuffledOptions = useMemo(() => {
+    if (!current) return [];
+    return [...current.options].sort(() => Math.random() - 0.5);
+  }, [current]);
 
   useEffect(() => {
     if (showResult) {
@@ -46,6 +52,19 @@ const Quiz = ({ category, onBack }) => {
         .sort((a, b) => b.score - a.score)
         .slice(0, 5);
       localStorage.setItem(scoreKey, JSON.stringify(updated));
+
+      supabase.from("scores").insert([{
+        name,
+        score,
+        category,
+        created_at: new Date().toISOString(),
+      }]).then(({ error }) => {
+        if (error) {
+          console.error("❌ Error al guardar en Supabase:", error);
+        } else {
+          console.log("✅ Puntaje guardado en Supabase");
+        }
+      });
     }
   }, [showResult]);
 
@@ -95,7 +114,7 @@ const Quiz = ({ category, onBack }) => {
         <div className="mt-6 flex flex-col items-center space-y-2">
           <p className="text-white">Comparte tu puntaje:</p>
           <a
-            href={`https://wa.me/?text=¡Jugué la trivia "¿Qué tan geek eres?" y saqué ${score} de ${questions.length}! Pruébala aquí: https://trivia-geek.vercel.app/`}
+            href={`https://wa.me/?text=¡Jugué la trivia \"¿Qué tan geek eres?\" y saqué ${score} de ${questions.length}! Pruébala aquí: https://trivia-geek.vercel.app/`}
             target="_blank"
             rel="noopener noreferrer"
             className="bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded"
@@ -105,12 +124,12 @@ const Quiz = ({ category, onBack }) => {
         </div>
 
         <button
-  disabled
-  className="bg-gray-500 text-white font-bold py-3 px-6 rounded-lg transition mb-4 opacity-50 cursor-not-allowed"
-  title="Muy pronto disponible"
->
-  Consigue tu camiseta geek 🎮 (próximamente)
-</button>
+          disabled
+          className="bg-gray-500 text-white font-bold py-3 px-6 rounded-lg transition mb-4 opacity-50 cursor-not-allowed"
+          title="Muy pronto disponible"
+        >
+          Consigue tu camiseta geek 🎮 (próximamente)
+        </button>
 
         <button
           onClick={onBack}
@@ -131,8 +150,6 @@ const Quiz = ({ category, onBack }) => {
     );
   }
 
-  const current = questions[index];
-
   return (
     <motion.div
       className="min-h-screen flex flex-col justify-center items-center px-4 text-center"
@@ -147,7 +164,7 @@ const Quiz = ({ category, onBack }) => {
       <p className="text-white text-lg mb-4">{current.question}</p>
 
       <div className="grid gap-3 w-full max-w-md">
-        {current.options.map((option) => (
+        {shuffledOptions.map((option) => (
           <motion.button
             key={option}
             onClick={() => handleAnswer(option)}

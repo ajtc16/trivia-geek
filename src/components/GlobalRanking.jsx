@@ -1,5 +1,5 @@
-
 import React, { useEffect, useState } from "react";
+import { supabase } from "../lib/supabaseClient";
 
 const categories = [
   "Videojuegos",
@@ -11,12 +11,26 @@ const GlobalRanking = ({ onBack }) => {
   const [scoresByCategory, setScoresByCategory] = useState({});
 
   useEffect(() => {
-    const updatedScores = {};
-    categories.forEach((cat) => {
-      const key = `${cat}-scores`;
-      updatedScores[cat] = JSON.parse(localStorage.getItem(key) || "[]");
-    });
-    setScoresByCategory(updatedScores);
+    const fetchScores = async () => {
+      const result = {};
+      for (const cat of categories) {
+        const { data, error } = await supabase
+          .from("scores")
+          .select("name, score, created_at")
+          .eq("category", cat)
+          .order("score", { ascending: false })
+          .limit(5);
+
+        if (!error) {
+          result[cat] = data;
+        } else {
+          console.error("Error fetching scores for", cat, error);
+        }
+      }
+      setScoresByCategory(result);
+    };
+
+    fetchScores();
   }, []);
 
   return (
@@ -37,7 +51,13 @@ const GlobalRanking = ({ onBack }) => {
                 scores.map((s, i) => (
                   <li key={i} className="flex justify-between">
                     <span>
-                      {i === 0 ? "🥇" : i === 1 ? "🥈" : i === 2 ? "🥉" : `#${i + 1}`} - {s.name} ({s.date})
+                      {i === 0
+                        ? "🥇"
+                        : i === 1
+                        ? "🥈"
+                        : i === 2
+                        ? "🥉"
+                        : `#${i + 1}`} - {s.name} ({s.created_at})
                     </span>
                     <span className="text-yellow-300">{s.score} pts</span>
                   </li>
