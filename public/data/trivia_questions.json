@@ -12,7 +12,7 @@
         "answer": "The Legend of Zelda"
       },
       {
-        "question": "Qué videojuego popular permite construir con bloques en un mundo abierto 42?",
+        "question": "Qué videojuego popular permite construir con bloques en un mundo abierto?",
         "options": [
           "Minecraft",
           "Roblox",
@@ -22,7 +22,7 @@
         "answer": "Minecraft"
       },
       {
-        "question": "Cuál es el arma principal en Halo 27?",
+        "question": "Cuál es el arma principal en Halo?",
         "options": [
           "Rifle de asalto",
           "Espada láser",
@@ -42,57 +42,57 @@
         "answer": "Wii U"
       },
       {
-        "question": "Qué consola precedió a la Nintendo Switch 44?",
+        "question": "¿Cuál es el objetivo principal en Tetris?",
         "options": [
-          "Wii U",
-          "3DS",
-          "GameCube",
-          "DS"
+          "Encajar piezas",
+          "Eliminar enemigos",
+          "Construir torres",
+          "Recolectar monedas"
         ],
-        "answer": "Wii U"
+        "answer": "Encajar piezas"
       },
       {
-        "question": "En qué juego el personaje principal es un joven llamado Link 26?",
+        "question": "¿Qué juego incluye a personajes como Donkey Kong y Diddy Kong?",
         "options": [
-          "The Legend of Zelda",
-          "Final Fantasy",
+          "Donkey Kong Country",
+          "Banjo-Kazooie",
+          "Crash Bandicoot",
+          "Super Mario Bros."
+        ],
+        "answer": "Donkey Kong Country"
+      },
+      {
+        "question": "¿En qué videojuego puedes atrapar criaturas con Poké Balls?",
+        "options": [
+          "Pokémon",
+          "Digimon",
+          "Yu-Gi-Oh!",
+          "Monster Rancher"
+        ],
+        "answer": "Pokémon"
+      },
+      {
+        "question": "¿Qué personaje dice '¡It's-a me, Mario!'?",
+        "options": [
+          "Mario",
+          "Luigi",
+          "Toad",
+          "Wario"
+        ],
+        "answer": "Mario"
+      },
+      {
+        "question": "¿En qué juego puedes elegir entre las clases Guerrero, Mago y Ladrón?",
+        "options": [
           "Skyrim",
-          "Chrono Trigger"
+          "Call of Duty",
+          "Overwatch",
+          "FIFA"
         ],
-        "answer": "The Legend of Zelda"
+        "answer": "Skyrim"
       },
       {
-        "question": "Qué videojuego popular permite construir con bloques en un mundo abierto 32?",
-        "options": [
-          "Minecraft",
-          "Roblox",
-          "Terraria",
-          "Fortnite"
-        ],
-        "answer": "Minecraft"
-      },
-      {
-        "question": "En qué juego el personaje principal es un joven llamado Link 46?",
-        "options": [
-          "The Legend of Zelda",
-          "Final Fantasy",
-          "Skyrim",
-          "Chrono Trigger"
-        ],
-        "answer": "The Legend of Zelda"
-      },
-      {
-        "question": "Cuál es el arma principal en Halo 17?",
-        "options": [
-          "Rifle de asalto",
-          "Espada láser",
-          "AK-47",
-          "BFG 9000"
-        ],
-        "answer": "Rifle de asalto"
-      },
-      {
-        "question": "Cuál es el objetivo principal en Pac-Man 49?",
+        "question": "Cuál es el objetivo principal en Pac-Man?",
         "options": [
           "Comer puntos",
           "Evitar fantasmas",
@@ -102,7 +102,7 @@
         "answer": "Todo lo anterior"
       },
       {
-        "question": "Qué personaje debe rescatar a la princesa Peach 21?",
+        "question": "Qué personaje debe rescatar a la princesa Peach?",
         "options": [
           "Mario",
           "Luigi",
@@ -112,17 +112,7 @@
         "answer": "Mario"
       },
       {
-        "question": "Cuál es el objetivo principal en Pac-Man 29?",
-        "options": [
-          "Comer puntos",
-          "Evitar fantasmas",
-          "Recoger frutas",
-          "Todo lo anterior"
-        ],
-        "answer": "Todo lo anterior"
-      },
-      {
-        "question": "Qué videojuego tiene como protagonista a un cazador de monstruos 25?",
+        "question": "Qué videojuego tiene como protagonista a un cazador de monstruos?",
         "options": [
           "Monster Hunter",
           "The Witcher",
@@ -132,7 +122,7 @@
         "answer": "Monster Hunter"
       },
       {
-        "question": "Qué juego tiene lugar en una ciudad llamada Raccoon City 18?",
+        "question": "Qué juego tiene lugar en una ciudad llamada Raccoon City?",
         "options": [
           "Resident Evil",
           "Silent Hill",
@@ -142,7 +132,7 @@
         "answer": "Resident Evil"
       },
       {
-        "question": "Cuál es la empresa creadora de la consola PlayStation 13?",
+        "question": "Cuál es la empresa creadora de la consola PlayStation?",
         "options": [
           "Sony",
           "Nintendo",
@@ -152,67 +142,7 @@
         "answer": "Sony"
       },
       {
-        "question": "Qué juego tiene lugar en una ciudad llamada Raccoon City 38?",
-        "options": [
-          "Resident Evil",
-          "Silent Hill",
-          "Dead Space",
-          "The Evil Within"
-        ],
-        "answer": "Resident Evil"
-      },
-      {
-        "question": "Cuál es el arma principal en Halo 47?",
-        "options": [
-          "Rifle de asalto",
-          "Espada láser",
-          "AK-47",
-          "BFG 9000"
-        ],
-        "answer": "Rifle de asalto"
-      },
-      {
-        "question": "Qué videojuego tiene como protagonista a un cazador de monstruos 35?",
-        "options": [
-          "Monster Hunter",
-          "The Witcher",
-          "Dark Souls",
-          "Bloodborne"
-        ],
-        "answer": "Monster Hunter"
-      },
-      {
-        "question": "¿Cuál es el arma principal en Halo?",
-        "options": [
-          "Rifle de asalto",
-          "Espada láser",
-          "AK-47",
-          "BFG 9000"
-        ],
-        "answer": "Rifle de asalto"
-      },
-      {
-        "question": "¿Cuál es el objetivo principal en Pac-Man?",
-        "options": [
-          "Comer puntos",
-          "Evitar fantasmas",
-          "Recoger frutas",
-          "Todo lo anterior"
-        ],
-        "answer": "Todo lo anterior"
-      },
-      {
-        "question": "Cuál es el objetivo principal en Pac-Man 19?",
-        "options": [
-          "Comer puntos",
-          "Evitar fantasmas",
-          "Recoger frutas",
-          "Todo lo anterior"
-        ],
-        "answer": "Todo lo anterior"
-      },
-      {
-        "question": "Qué videojuego presenta combates entre criaturas llamadas campeones 40?",
+        "question": "Qué videojuego presenta combates entre criaturas llamadas campeones?",
         "options": [
           "League of Legends",
           "Overwatch",
@@ -220,291 +150,11 @@
           "Dota 2"
         ],
         "answer": "League of Legends"
-      },
-      {
-        "question": "Qué videojuego tiene como protagonista a un cazador de monstruos 15?",
-        "options": [
-          "Monster Hunter",
-          "The Witcher",
-          "Dark Souls",
-          "Bloodborne"
-        ],
-        "answer": "Monster Hunter"
-      },
-      {
-        "question": "Qué personaje debe rescatar a la princesa Peach 11?",
-        "options": [
-          "Mario",
-          "Luigi",
-          "Toad",
-          "Bowser Jr."
-        ],
-        "answer": "Mario"
-      },
-      {
-        "question": "En qué juego el personaje principal es un joven llamado Link 36?",
-        "options": [
-          "The Legend of Zelda",
-          "Final Fantasy",
-          "Skyrim",
-          "Chrono Trigger"
-        ],
-        "answer": "The Legend of Zelda"
-      },
-      {
-        "question": "¿Qué personaje debe rescatar a la princesa Peach?",
-        "options": [
-          "Mario",
-          "Luigi",
-          "Toad",
-          "Bowser Jr."
-        ],
-        "answer": "Mario"
-      },
-      {
-        "question": "Qué videojuego presenta combates entre criaturas llamadas campeones 30?",
-        "options": [
-          "League of Legends",
-          "Overwatch",
-          "Valorant",
-          "Dota 2"
-        ],
-        "answer": "League of Legends"
-      },
-      {
-        "question": "Qué videojuego tiene como protagonista a un cazador de monstruos 45?",
-        "options": [
-          "Monster Hunter",
-          "The Witcher",
-          "Dark Souls",
-          "Bloodborne"
-        ],
-        "answer": "Monster Hunter"
-      },
-      {
-        "question": "Qué juego tiene lugar en una ciudad llamada Raccoon City 48?",
-        "options": [
-          "Resident Evil",
-          "Silent Hill",
-          "Dead Space",
-          "The Evil Within"
-        ],
-        "answer": "Resident Evil"
-      },
-      {
-        "question": "¿Qué videojuego presenta combates entre criaturas llamadas campeones?",
-        "options": [
-          "League of Legends",
-          "Overwatch",
-          "Valorant",
-          "Dota 2"
-        ],
-        "answer": "League of Legends"
-      },
-      {
-        "question": "Qué consola precedió a la Nintendo Switch 24?",
-        "options": [
-          "Wii U",
-          "3DS",
-          "GameCube",
-          "DS"
-        ],
-        "answer": "Wii U"
-      },
-      {
-        "question": "Cuál es el objetivo principal en Pac-Man 39?",
-        "options": [
-          "Comer puntos",
-          "Evitar fantasmas",
-          "Recoger frutas",
-          "Todo lo anterior"
-        ],
-        "answer": "Todo lo anterior"
-      },
-      {
-        "question": "Qué videojuego popular permite construir con bloques en un mundo abierto 12?",
-        "options": [
-          "Minecraft",
-          "Roblox",
-          "Terraria",
-          "Fortnite"
-        ],
-        "answer": "Minecraft"
-      },
-      {
-        "question": "¿Qué videojuego tiene como protagonista a un cazador de monstruos?",
-        "options": [
-          "Monster Hunter",
-          "The Witcher",
-          "Dark Souls",
-          "Bloodborne"
-        ],
-        "answer": "Monster Hunter"
-      },
-      {
-        "question": "Cuál es la empresa creadora de la consola PlayStation 33?",
-        "options": [
-          "Sony",
-          "Nintendo",
-          "Microsoft",
-          "Sega"
-        ],
-        "answer": "Sony"
-      },
-      {
-        "question": "Cuál es la empresa creadora de la consola PlayStation 43?",
-        "options": [
-          "Sony",
-          "Nintendo",
-          "Microsoft",
-          "Sega"
-        ],
-        "answer": "Sony"
-      },
-      {
-        "question": "Qué juego tiene lugar en una ciudad llamada Raccoon City 28?",
-        "options": [
-          "Resident Evil",
-          "Silent Hill",
-          "Dead Space",
-          "The Evil Within"
-        ],
-        "answer": "Resident Evil"
-      },
-      {
-        "question": "Qué videojuego presenta combates entre criaturas llamadas campeones 50?",
-        "options": [
-          "League of Legends",
-          "Overwatch",
-          "Valorant",
-          "Dota 2"
-        ],
-        "answer": "League of Legends"
-      },
-      {
-        "question": "Qué videojuego presenta combates entre criaturas llamadas campeones 20?",
-        "options": [
-          "League of Legends",
-          "Overwatch",
-          "Valorant",
-          "Dota 2"
-        ],
-        "answer": "League of Legends"
-      },
-      {
-        "question": "En qué juego el personaje principal es un joven llamado Link 16?",
-        "options": [
-          "The Legend of Zelda",
-          "Final Fantasy",
-          "Skyrim",
-          "Chrono Trigger"
-        ],
-        "answer": "The Legend of Zelda"
-      },
-      {
-        "question": "Qué personaje debe rescatar a la princesa Peach 41?",
-        "options": [
-          "Mario",
-          "Luigi",
-          "Toad",
-          "Bowser Jr."
-        ],
-        "answer": "Mario"
-      },
-      {
-        "question": "Qué videojuego popular permite construir con bloques en un mundo abierto 22?",
-        "options": [
-          "Minecraft",
-          "Roblox",
-          "Terraria",
-          "Fortnite"
-        ],
-        "answer": "Minecraft"
-      },
-      {
-        "question": "Qué consola precedió a la Nintendo Switch 14?",
-        "options": [
-          "Wii U",
-          "3DS",
-          "GameCube",
-          "DS"
-        ],
-        "answer": "Wii U"
-      },
-      {
-        "question": "¿Cuál es la empresa creadora de la consola PlayStation?",
-        "options": [
-          "Sony",
-          "Nintendo",
-          "Microsoft",
-          "Sega"
-        ],
-        "answer": "Sony"
-      },
-      {
-        "question": "¿Qué videojuego popular permite construir con bloques en un mundo abierto?",
-        "options": [
-          "Minecraft",
-          "Roblox",
-          "Terraria",
-          "Fortnite"
-        ],
-        "answer": "Minecraft"
-      },
-      {
-        "question": "Qué personaje debe rescatar a la princesa Peach 31?",
-        "options": [
-          "Mario",
-          "Luigi",
-          "Toad",
-          "Bowser Jr."
-        ],
-        "answer": "Mario"
-      },
-      {
-        "question": "Cuál es el arma principal en Halo 37?",
-        "options": [
-          "Rifle de asalto",
-          "Espada láser",
-          "AK-47",
-          "BFG 9000"
-        ],
-        "answer": "Rifle de asalto"
-      },
-      {
-        "question": "Qué consola precedió a la Nintendo Switch 34?",
-        "options": [
-          "Wii U",
-          "3DS",
-          "GameCube",
-          "DS"
-        ],
-        "answer": "Wii U"
-      },
-      {
-        "question": "¿Qué juego tiene lugar en una ciudad llamada Raccoon City?",
-        "options": [
-          "Resident Evil",
-          "Silent Hill",
-          "Dead Space",
-          "The Evil Within"
-        ],
-        "answer": "Resident Evil"
-      },
-      {
-        "question": "Cuál es la empresa creadora de la consola PlayStation 23?",
-        "options": [
-          "Sony",
-          "Nintendo",
-          "Microsoft",
-          "Sega"
-        ],
-        "answer": "Sony"
       }
     ],
     "Películas y series": [
       {
-        "question": "Cuál es el nombre del villano en Avengers: Infinity War 40?",
+        "question": "Cuál es el nombre del villano en Avengers: Infinity War?",
         "options": [
           "Thanos",
           "Ultron",
@@ -514,7 +164,7 @@
         "answer": "Thanos"
       },
       {
-        "question": "Qué película inicia con el personaje principal tomando la píldora roja 44?",
+        "question": "Qué película inicia con el personaje principal tomando la píldora roja?",
         "options": [
           "The Matrix",
           "Tron",
@@ -524,7 +174,7 @@
         "answer": "The Matrix"
       },
       {
-        "question": "Qué saga fílmica tiene como villano a Sauron 26?",
+        "question": "Qué saga fílmica tiene como villano a Sauron?",
         "options": [
           "El Señor de los Anillos",
           "Harry Potter",
@@ -534,17 +184,17 @@
         "answer": "El Señor de los Anillos"
       },
       {
-        "question": "Cuál es el nombre del villano en Avengers: Infinity War 30?",
+        "question": "¿Quién interpretó a Harry Potter en las películas?",
         "options": [
-          "Thanos",
-          "Ultron",
-          "Loki",
-          "Red Skull"
+          "Daniel Radcliffe",
+          "Rupert Grint",
+          "Elijah Wood",
+          "Tom Felton"
         ],
-        "answer": "Thanos"
+        "answer": "Daniel Radcliffe"
       },
       {
-        "question": "Quién dirigió la trilogía de El Señor de los Anillos 19?",
+        "question": "Quién dirigió la trilogía de El Señor de los Anillos?",
         "options": [
           "Peter Jackson",
           "George Lucas",
@@ -554,7 +204,7 @@
         "answer": "Peter Jackson"
       },
       {
-        "question": "Qué personaje lidera a los Autobots 37?",
+        "question": "Qué personaje lidera a los Autobots?",
         "options": [
           "Optimus Prime",
           "Bumblebee",
@@ -564,7 +214,7 @@
         "answer": "Optimus Prime"
       },
       {
-        "question": "En qué película los juguetes cobran vida 18?",
+        "question": "En qué película los juguetes cobran vida?",
         "options": [
           "Toy Story",
           "Jumanji",
@@ -574,37 +224,37 @@
         "answer": "Toy Story"
       },
       {
-        "question": "Quién dirigió la trilogía de El Señor de los Anillos 49?",
+        "question": "¿Qué película cuenta la historia de un tiburón asesino?",
         "options": [
-          "Peter Jackson",
-          "George Lucas",
-          "Chris Columbus",
-          "David Yates"
+          "Jaws",
+          "Deep Blue Sea",
+          "The Meg",
+          "Sharknado"
         ],
-        "answer": "Peter Jackson"
+        "answer": "Jaws"
       },
       {
-        "question": "¿En qué película los juguetes cobran vida?",
+        "question": "¿Qué serie sigue a un grupo de niños en Hawkins, Indiana?",
         "options": [
-          "Toy Story",
-          "Jumanji",
-          "Inside Out",
-          "Cars"
+          "Stranger Things",
+          "Dark",
+          "The Umbrella Academy",
+          "Riverdale"
         ],
-        "answer": "Toy Story"
+        "answer": "Stranger Things"
       },
       {
-        "question": "Qué película inicia con el personaje principal tomando la píldora roja 14?",
+        "question": "¿Quién fue el director de Titanic?",
         "options": [
-          "The Matrix",
-          "Tron",
-          "Inception",
-          "Blade Runner"
+          "James Cameron",
+          "Steven Spielberg",
+          "Christopher Nolan",
+          "Peter Jackson"
         ],
-        "answer": "The Matrix"
+        "answer": "James Cameron"
       },
       {
-        "question": "Quién interpretó a Jack en Titanic 35?",
+        "question": "Quién interpretó a Jack en Titanic?",
         "options": [
           "Leonardo DiCaprio",
           "Brad Pitt",
@@ -614,7 +264,7 @@
         "answer": "Leonardo DiCaprio"
       },
       {
-        "question": "Quién es el archienemigo de Batman 11?",
+        "question": "Quién es el archienemigo de Batman?",
         "options": [
           "Joker",
           "Riddler",
@@ -624,97 +274,17 @@
         "answer": "Joker"
       },
       {
-        "question": "Quién dirigió la trilogía de El Señor de los Anillos 39?",
+        "question": "¿Qué película popular tiene una canción titulada 'Let It Go'?",
         "options": [
-          "Peter Jackson",
-          "George Lucas",
-          "Chris Columbus",
-          "David Yates"
+          "Frozen",
+          "Moana",
+          "Tangled",
+          "Brave"
         ],
-        "answer": "Peter Jackson"
+        "answer": "Frozen"
       },
       {
-        "question": "Qué personaje lidera a los Autobots 27?",
-        "options": [
-          "Optimus Prime",
-          "Bumblebee",
-          "Megatron",
-          "Ironhide"
-        ],
-        "answer": "Optimus Prime"
-      },
-      {
-        "question": "Quién es el archienemigo de Batman 21?",
-        "options": [
-          "Joker",
-          "Riddler",
-          "Pingüino",
-          "Dos Caras"
-        ],
-        "answer": "Joker"
-      },
-      {
-        "question": "En qué película los juguetes cobran vida 48?",
-        "options": [
-          "Toy Story",
-          "Jumanji",
-          "Inside Out",
-          "Cars"
-        ],
-        "answer": "Toy Story"
-      },
-      {
-        "question": "Qué director es famoso por sus giros argumentales y dirigió 'Sexto Sentido' 23?",
-        "options": [
-          "M. Night Shyamalan",
-          "Spielberg",
-          "Nolan",
-          "Scorsese"
-        ],
-        "answer": "M. Night Shyamalan"
-      },
-      {
-        "question": "Qué saga fílmica tiene como villano a Sauron 16?",
-        "options": [
-          "El Señor de los Anillos",
-          "Harry Potter",
-          "Star Wars",
-          "Narnia"
-        ],
-        "answer": "El Señor de los Anillos"
-      },
-      {
-        "question": "¿Quién dirigió la trilogía de El Señor de los Anillos?",
-        "options": [
-          "Peter Jackson",
-          "George Lucas",
-          "Chris Columbus",
-          "David Yates"
-        ],
-        "answer": "Peter Jackson"
-      },
-      {
-        "question": "Cuál es el nombre del villano en Avengers: Infinity War 50?",
-        "options": [
-          "Thanos",
-          "Ultron",
-          "Loki",
-          "Red Skull"
-        ],
-        "answer": "Thanos"
-      },
-      {
-        "question": "Qué película inicia con el personaje principal tomando la píldora roja 24?",
-        "options": [
-          "The Matrix",
-          "Tron",
-          "Inception",
-          "Blade Runner"
-        ],
-        "answer": "The Matrix"
-      },
-      {
-        "question": "Qué director es famoso por sus giros argumentales y dirigió 'Sexto Sentido' 13?",
+        "question": "Qué director es famoso por sus giros argumentales y dirigió 'Sexto Sentido'?",
         "options": [
           "M. Night Shyamalan",
           "Spielberg",
@@ -732,281 +302,11 @@
           "Shutter Island"
         ],
         "answer": "The Revenant"
-      },
-      {
-        "question": "¿Quién es el archienemigo de Batman?",
-        "options": [
-          "Joker",
-          "Riddler",
-          "Pingüino",
-          "Dos Caras"
-        ],
-        "answer": "Joker"
-      },
-      {
-        "question": "En qué película Leonardo DiCaprio lucha contra un oso 12?",
-        "options": [
-          "The Revenant",
-          "Inception",
-          "Titanic",
-          "Shutter Island"
-        ],
-        "answer": "The Revenant"
-      },
-      {
-        "question": "Quién interpretó a Jack en Titanic 25?",
-        "options": [
-          "Leonardo DiCaprio",
-          "Brad Pitt",
-          "Johnny Depp",
-          "Tom Cruise"
-        ],
-        "answer": "Leonardo DiCaprio"
-      },
-      {
-        "question": "En qué película Leonardo DiCaprio lucha contra un oso 42?",
-        "options": [
-          "The Revenant",
-          "Inception",
-          "Titanic",
-          "Shutter Island"
-        ],
-        "answer": "The Revenant"
-      },
-      {
-        "question": "¿Qué personaje lidera a los Autobots?",
-        "options": [
-          "Optimus Prime",
-          "Bumblebee",
-          "Megatron",
-          "Ironhide"
-        ],
-        "answer": "Optimus Prime"
-      },
-      {
-        "question": "¿Quién interpretó a Jack en Titanic?",
-        "options": [
-          "Leonardo DiCaprio",
-          "Brad Pitt",
-          "Johnny Depp",
-          "Tom Cruise"
-        ],
-        "answer": "Leonardo DiCaprio"
-      },
-      {
-        "question": "En qué película los juguetes cobran vida 38?",
-        "options": [
-          "Toy Story",
-          "Jumanji",
-          "Inside Out",
-          "Cars"
-        ],
-        "answer": "Toy Story"
-      },
-      {
-        "question": "Qué personaje lidera a los Autobots 47?",
-        "options": [
-          "Optimus Prime",
-          "Bumblebee",
-          "Megatron",
-          "Ironhide"
-        ],
-        "answer": "Optimus Prime"
-      },
-      {
-        "question": "Quién interpretó a Jack en Titanic 45?",
-        "options": [
-          "Leonardo DiCaprio",
-          "Brad Pitt",
-          "Johnny Depp",
-          "Tom Cruise"
-        ],
-        "answer": "Leonardo DiCaprio"
-      },
-      {
-        "question": "Qué saga fílmica tiene como villano a Sauron 36?",
-        "options": [
-          "El Señor de los Anillos",
-          "Harry Potter",
-          "Star Wars",
-          "Narnia"
-        ],
-        "answer": "El Señor de los Anillos"
-      },
-      {
-        "question": "¿Qué director es famoso por sus giros argumentales y dirigió 'Sexto Sentido'?",
-        "options": [
-          "M. Night Shyamalan",
-          "Spielberg",
-          "Nolan",
-          "Scorsese"
-        ],
-        "answer": "M. Night Shyamalan"
-      },
-      {
-        "question": "¿Qué saga fílmica tiene como villano a Sauron?",
-        "options": [
-          "El Señor de los Anillos",
-          "Harry Potter",
-          "Star Wars",
-          "Narnia"
-        ],
-        "answer": "El Señor de los Anillos"
-      },
-      {
-        "question": "Qué saga fílmica tiene como villano a Sauron 46?",
-        "options": [
-          "El Señor de los Anillos",
-          "Harry Potter",
-          "Star Wars",
-          "Narnia"
-        ],
-        "answer": "El Señor de los Anillos"
-      },
-      {
-        "question": "¿Qué película inicia con el personaje principal tomando la píldora roja?",
-        "options": [
-          "The Matrix",
-          "Tron",
-          "Inception",
-          "Blade Runner"
-        ],
-        "answer": "The Matrix"
-      },
-      {
-        "question": "Quién dirigió la trilogía de El Señor de los Anillos 29?",
-        "options": [
-          "Peter Jackson",
-          "George Lucas",
-          "Chris Columbus",
-          "David Yates"
-        ],
-        "answer": "Peter Jackson"
-      },
-      {
-        "question": "Quién interpretó a Jack en Titanic 15?",
-        "options": [
-          "Leonardo DiCaprio",
-          "Brad Pitt",
-          "Johnny Depp",
-          "Tom Cruise"
-        ],
-        "answer": "Leonardo DiCaprio"
-      },
-      {
-        "question": "En qué película los juguetes cobran vida 28?",
-        "options": [
-          "Toy Story",
-          "Jumanji",
-          "Inside Out",
-          "Cars"
-        ],
-        "answer": "Toy Story"
-      },
-      {
-        "question": "En qué película Leonardo DiCaprio lucha contra un oso 32?",
-        "options": [
-          "The Revenant",
-          "Inception",
-          "Titanic",
-          "Shutter Island"
-        ],
-        "answer": "The Revenant"
-      },
-      {
-        "question": "¿Cuál es el nombre del villano en Avengers: Infinity War?",
-        "options": [
-          "Thanos",
-          "Ultron",
-          "Loki",
-          "Red Skull"
-        ],
-        "answer": "Thanos"
-      },
-      {
-        "question": "Cuál es el nombre del villano en Avengers: Infinity War 20?",
-        "options": [
-          "Thanos",
-          "Ultron",
-          "Loki",
-          "Red Skull"
-        ],
-        "answer": "Thanos"
-      },
-      {
-        "question": "En qué película Leonardo DiCaprio lucha contra un oso 22?",
-        "options": [
-          "The Revenant",
-          "Inception",
-          "Titanic",
-          "Shutter Island"
-        ],
-        "answer": "The Revenant"
-      },
-      {
-        "question": "Qué película inicia con el personaje principal tomando la píldora roja 34?",
-        "options": [
-          "The Matrix",
-          "Tron",
-          "Inception",
-          "Blade Runner"
-        ],
-        "answer": "The Matrix"
-      },
-      {
-        "question": "Qué director es famoso por sus giros argumentales y dirigió 'Sexto Sentido' 33?",
-        "options": [
-          "M. Night Shyamalan",
-          "Spielberg",
-          "Nolan",
-          "Scorsese"
-        ],
-        "answer": "M. Night Shyamalan"
-      },
-      {
-        "question": "Quién es el archienemigo de Batman 41?",
-        "options": [
-          "Joker",
-          "Riddler",
-          "Pingüino",
-          "Dos Caras"
-        ],
-        "answer": "Joker"
-      },
-      {
-        "question": "Qué director es famoso por sus giros argumentales y dirigió 'Sexto Sentido' 43?",
-        "options": [
-          "M. Night Shyamalan",
-          "Spielberg",
-          "Nolan",
-          "Scorsese"
-        ],
-        "answer": "M. Night Shyamalan"
-      },
-      {
-        "question": "Quién es el archienemigo de Batman 31?",
-        "options": [
-          "Joker",
-          "Riddler",
-          "Pingüino",
-          "Dos Caras"
-        ],
-        "answer": "Joker"
-      },
-      {
-        "question": "Qué personaje lidera a los Autobots 17?",
-        "options": [
-          "Optimus Prime",
-          "Bumblebee",
-          "Megatron",
-          "Ironhide"
-        ],
-        "answer": "Optimus Prime"
       }
     ],
     "Anime, comics y manga": [
       {
-        "question": "Cuál es el apellido de Naruto 21?",
+        "question": "Cuál es el apellido de Naruto?",
         "options": [
           "Uzumaki",
           "Uchiha",
@@ -1016,7 +316,7 @@
         "answer": "Uzumaki"
       },
       {
-        "question": "Cuál es el nombre del pirata de sombrero de paja 47?",
+        "question": "Cuál es el nombre del pirata de sombrero de paja?",
         "options": [
           "Luffy",
           "Zoro",
@@ -1026,7 +326,7 @@
         "answer": "Luffy"
       },
       {
-        "question": "Qué personaje de Dragon Ball Z se transforma en Super Saiyan 32?",
+        "question": "Qué personaje de Dragon Ball Z se transforma en Super Saiyan?",
         "options": [
           "Goku",
           "Krillin",
@@ -1036,7 +336,7 @@
         "answer": "Goku"
       },
       {
-        "question": "Qué anime tiene titanes devoradores 26?",
+        "question": "Qué anime tiene titanes devoradores?",
         "options": [
           "Attack on Titan",
           "Claymore",
@@ -1046,17 +346,17 @@
         "answer": "Attack on Titan"
       },
       {
-        "question": "Cuál es el apellido de Naruto 31?",
+        "question": "¿Qué tipo de fruta comió Luffy para obtener sus poderes?",
         "options": [
-          "Uzumaki",
-          "Uchiha",
-          "Hatake",
-          "Senju"
+          "Fruta Gomu Gomu",
+          "Fruta Mera Mera",
+          "Fruta Hie Hie",
+          "Fruta Suna Suna"
         ],
-        "answer": "Uzumaki"
+        "answer": "Fruta Gomu Gomu"
       },
       {
-        "question": "Quién es el principal rival de Naruto 45?",
+        "question": "Quién es el principal rival de Naruto?",
         "options": [
           "Sasuke",
           "Gaara",
@@ -1066,17 +366,17 @@
         "answer": "Sasuke"
       },
       {
-        "question": "Cuál es el nombre del pirata de sombrero de paja 27?",
+        "question": "¿Cómo se llama el villano principal en Death Note?",
         "options": [
-          "Luffy",
-          "Zoro",
-          "Ace",
-          "Shanks"
+          "Light Yagami",
+          "L",
+          "Ryuk",
+          "Near"
         ],
-        "answer": "Luffy"
+        "answer": "Light Yagami"
       },
       {
-        "question": "Qué guerrero Saiyan tiene una hija llamada Pan 28?",
+        "question": "Qué guerrero Saiyan tiene una hija llamada Pan?",
         "options": [
           "Gohan",
           "Goku",
@@ -1086,7 +386,7 @@
         "answer": "Gohan"
       },
       {
-        "question": "Qué anime sigue a cazadores con habilidades especiales 43?",
+        "question": "Qué anime sigue a cazadores con habilidades especiales?",
         "options": [
           "Hunter x Hunter",
           "Naruto",
@@ -1096,17 +396,17 @@
         "answer": "Hunter x Hunter"
       },
       {
-        "question": "Quién es el principal rival de Naruto 35?",
+        "question": "¿Qué clase de criatura es Pikachu?",
         "options": [
-          "Sasuke",
-          "Gaara",
-          "Neji",
-          "Kiba"
+          "Ratón eléctrico",
+          "Dragón",
+          "Ave legendaria",
+          "Reptil psíquico"
         ],
-        "answer": "Sasuke"
+        "answer": "Ratón eléctrico"
       },
       {
-        "question": "Quién usa una katana llamada Zangetsu 29?",
+        "question": "Quién usa una katana llamada Zangetsu?",
         "options": [
           "Ichigo",
           "Gintoki",
@@ -1116,97 +416,27 @@
         "answer": "Ichigo"
       },
       {
-        "question": "Quién usa una katana llamada Zangetsu 49?",
+        "question": "¿Qué ninja copia tiene el Sharingan?",
         "options": [
-          "Ichigo",
-          "Gintoki",
-          "Tanjiro",
-          "Levi"
+          "Kakashi",
+          "Iruka",
+          "Jiraiya",
+          "Rock Lee"
         ],
-        "answer": "Ichigo"
+        "answer": "Kakashi"
       },
       {
-        "question": "Quién usa una katana llamada Zangetsu 19?",
+        "question": "¿En qué anime aparece el grupo Akatsuki?",
         "options": [
-          "Ichigo",
-          "Gintoki",
-          "Tanjiro",
-          "Levi"
-        ],
-        "answer": "Ichigo"
-      },
-      {
-        "question": "¿Qué anime sigue a cazadores con habilidades especiales?",
-        "options": [
-          "Hunter x Hunter",
           "Naruto",
           "Bleach",
-          "One Piece"
+          "One Piece",
+          "Fairy Tail"
         ],
-        "answer": "Hunter x Hunter"
+        "answer": "Naruto"
       },
       {
-        "question": "Qué anime tiene titanes devoradores 36?",
-        "options": [
-          "Attack on Titan",
-          "Claymore",
-          "Berserk",
-          "Elfen Lied"
-        ],
-        "answer": "Attack on Titan"
-      },
-      {
-        "question": "Qué personaje de Dragon Ball Z se transforma en Super Saiyan 12?",
-        "options": [
-          "Goku",
-          "Krillin",
-          "Yamcha",
-          "Tien"
-        ],
-        "answer": "Goku"
-      },
-      {
-        "question": "Quién es el principal rival de Naruto 15?",
-        "options": [
-          "Sasuke",
-          "Gaara",
-          "Neji",
-          "Kiba"
-        ],
-        "answer": "Sasuke"
-      },
-      {
-        "question": "¿Cuál es el nombre del pirata de sombrero de paja?",
-        "options": [
-          "Luffy",
-          "Zoro",
-          "Ace",
-          "Shanks"
-        ],
-        "answer": "Luffy"
-      },
-      {
-        "question": "¿Qué guerrero Saiyan tiene una hija llamada Pan?",
-        "options": [
-          "Gohan",
-          "Goku",
-          "Vegeta",
-          "Trunks"
-        ],
-        "answer": "Gohan"
-      },
-      {
-        "question": "Cuál es el nombre del pirata de sombrero de paja 37?",
-        "options": [
-          "Luffy",
-          "Zoro",
-          "Ace",
-          "Shanks"
-        ],
-        "answer": "Luffy"
-      },
-      {
-        "question": "En qué anime los héroes entrenan en la UA Academy 40?",
+        "question": "En qué anime los héroes entrenan en la UA Academy?",
         "options": [
           "My Hero Academia",
           "One Punch Man",
@@ -1214,289 +444,9 @@
           "Black Clover"
         ],
         "answer": "My Hero Academia"
-      },
-      {
-        "question": "Qué anime sigue a cazadores con habilidades especiales 13?",
-        "options": [
-          "Hunter x Hunter",
-          "Naruto",
-          "Bleach",
-          "One Piece"
-        ],
-        "answer": "Hunter x Hunter"
-      },
-      {
-        "question": "¿Qué anime tiene titanes devoradores?",
-        "options": [
-          "Attack on Titan",
-          "Claymore",
-          "Berserk",
-          "Elfen Lied"
-        ],
-        "answer": "Attack on Titan"
-      },
-      {
-        "question": "Qué anime sigue a cazadores con habilidades especiales 23?",
-        "options": [
-          "Hunter x Hunter",
-          "Naruto",
-          "Bleach",
-          "One Piece"
-        ],
-        "answer": "Hunter x Hunter"
-      },
-      {
-        "question": "¿Cuál es el apellido de Naruto?",
-        "options": [
-          "Uzumaki",
-          "Uchiha",
-          "Hatake",
-          "Senju"
-        ],
-        "answer": "Uzumaki"
-      },
-      {
-        "question": "Quién es el principal rival de Naruto 25?",
-        "options": [
-          "Sasuke",
-          "Gaara",
-          "Neji",
-          "Kiba"
-        ],
-        "answer": "Sasuke"
-      },
-      {
-        "question": "En qué anime los héroes entrenan en la UA Academy 20?",
-        "options": [
-          "My Hero Academia",
-          "One Punch Man",
-          "Mob Psycho 100",
-          "Black Clover"
-        ],
-        "answer": "My Hero Academia"
-      },
-      {
-        "question": "Qué personaje de Dragon Ball Z se transforma en Super Saiyan 22?",
-        "options": [
-          "Goku",
-          "Krillin",
-          "Yamcha",
-          "Tien"
-        ],
-        "answer": "Goku"
-      },
-      {
-        "question": "¿Quién es el principal rival de Naruto?",
-        "options": [
-          "Sasuke",
-          "Gaara",
-          "Neji",
-          "Kiba"
-        ],
-        "answer": "Sasuke"
-      },
-      {
-        "question": "Cuál es el apellido de Naruto 11?",
-        "options": [
-          "Uzumaki",
-          "Uchiha",
-          "Hatake",
-          "Senju"
-        ],
-        "answer": "Uzumaki"
-      },
-      {
-        "question": "Qué anime sigue a cazadores con habilidades especiales 33?",
-        "options": [
-          "Hunter x Hunter",
-          "Naruto",
-          "Bleach",
-          "One Piece"
-        ],
-        "answer": "Hunter x Hunter"
-      },
-      {
-        "question": "¿En qué anime los héroes entrenan en la UA Academy?",
-        "options": [
-          "My Hero Academia",
-          "One Punch Man",
-          "Mob Psycho 100",
-          "Black Clover"
-        ],
-        "answer": "My Hero Academia"
-      },
-      {
-        "question": "En qué anime los héroes entrenan en la UA Academy 50?",
-        "options": [
-          "My Hero Academia",
-          "One Punch Man",
-          "Mob Psycho 100",
-          "Black Clover"
-        ],
-        "answer": "My Hero Academia"
-      },
-      {
-        "question": "Quién usa una katana llamada Zangetsu 39?",
-        "options": [
-          "Ichigo",
-          "Gintoki",
-          "Tanjiro",
-          "Levi"
-        ],
-        "answer": "Ichigo"
-      },
-      {
-        "question": "Qué guerrero Saiyan tiene una hija llamada Pan 48?",
-        "options": [
-          "Gohan",
-          "Goku",
-          "Vegeta",
-          "Trunks"
-        ],
-        "answer": "Gohan"
       },
       {
         "question": "¿Qué anime tiene un cuaderno mortal?",
-        "options": [
-          "Death Note",
-          "Tokyo Ghoul",
-          "Paranoia Agent",
-          "Another"
-        ],
-        "answer": "Death Note"
-      },
-      {
-        "question": "Qué guerrero Saiyan tiene una hija llamada Pan 18?",
-        "options": [
-          "Gohan",
-          "Goku",
-          "Vegeta",
-          "Trunks"
-        ],
-        "answer": "Gohan"
-      },
-      {
-        "question": "Qué anime tiene titanes devoradores 46?",
-        "options": [
-          "Attack on Titan",
-          "Claymore",
-          "Berserk",
-          "Elfen Lied"
-        ],
-        "answer": "Attack on Titan"
-      },
-      {
-        "question": "Qué guerrero Saiyan tiene una hija llamada Pan 38?",
-        "options": [
-          "Gohan",
-          "Goku",
-          "Vegeta",
-          "Trunks"
-        ],
-        "answer": "Gohan"
-      },
-      {
-        "question": "¿Quién usa una katana llamada Zangetsu?",
-        "options": [
-          "Ichigo",
-          "Gintoki",
-          "Tanjiro",
-          "Levi"
-        ],
-        "answer": "Ichigo"
-      },
-      {
-        "question": "Qué anime tiene titanes devoradores 16?",
-        "options": [
-          "Attack on Titan",
-          "Claymore",
-          "Berserk",
-          "Elfen Lied"
-        ],
-        "answer": "Attack on Titan"
-      },
-      {
-        "question": "Qué anime tiene un cuaderno mortal 34?",
-        "options": [
-          "Death Note",
-          "Tokyo Ghoul",
-          "Paranoia Agent",
-          "Another"
-        ],
-        "answer": "Death Note"
-      },
-      {
-        "question": "Qué anime tiene un cuaderno mortal 24?",
-        "options": [
-          "Death Note",
-          "Tokyo Ghoul",
-          "Paranoia Agent",
-          "Another"
-        ],
-        "answer": "Death Note"
-      },
-      {
-        "question": "En qué anime los héroes entrenan en la UA Academy 30?",
-        "options": [
-          "My Hero Academia",
-          "One Punch Man",
-          "Mob Psycho 100",
-          "Black Clover"
-        ],
-        "answer": "My Hero Academia"
-      },
-      {
-        "question": "Qué anime tiene un cuaderno mortal 44?",
-        "options": [
-          "Death Note",
-          "Tokyo Ghoul",
-          "Paranoia Agent",
-          "Another"
-        ],
-        "answer": "Death Note"
-      },
-      {
-        "question": "¿Qué personaje de Dragon Ball Z se transforma en Super Saiyan?",
-        "options": [
-          "Goku",
-          "Krillin",
-          "Yamcha",
-          "Tien"
-        ],
-        "answer": "Goku"
-      },
-      {
-        "question": "Qué personaje de Dragon Ball Z se transforma en Super Saiyan 42?",
-        "options": [
-          "Goku",
-          "Krillin",
-          "Yamcha",
-          "Tien"
-        ],
-        "answer": "Goku"
-      },
-      {
-        "question": "Cuál es el nombre del pirata de sombrero de paja 17?",
-        "options": [
-          "Luffy",
-          "Zoro",
-          "Ace",
-          "Shanks"
-        ],
-        "answer": "Luffy"
-      },
-      {
-        "question": "Cuál es el apellido de Naruto 41?",
-        "options": [
-          "Uzumaki",
-          "Uchiha",
-          "Hatake",
-          "Senju"
-        ],
-        "answer": "Uzumaki"
-      },
-      {
-        "question": "Qué anime tiene un cuaderno mortal 14?",
         "options": [
           "Death Note",
           "Tokyo Ghoul",
